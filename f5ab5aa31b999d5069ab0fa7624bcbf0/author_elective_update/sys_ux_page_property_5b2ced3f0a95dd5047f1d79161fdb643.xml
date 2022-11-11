@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">972ced3f7795dd507e0a122458052c41</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">db2ced3f5c95dd501aa9717cd2d1744c</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-20 18:42:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5b2ced3f0a95dd5047f1d79161fdb643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_page_property_5b2ced3f0a95dd5047f1d79161fdb643</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:42:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_ster2_data_cas_0.972ced3f7795dd507e0a122458052c41.route.chrome_header.db2ced3f5c95dd501aa9717cd2d1744c</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ux_page_property_5b2ced3f0a95dd5047f1d79161fdb643</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">972ced3f7795dd507e0a122458052c41</page><required_translations>[]</required_translations><route display_value="Search Page">db2ced3f5c95dd501aa9717cd2d1744c</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-08-20 18:42:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>5b2ced3f0a95dd5047f1d79161fdb643</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_ux_page_property_5b2ced3f0a95dd5047f1d79161fdb643</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-08-20 18:42:37</sys_updated_on><type>json</type><unique_name>x_ster2_data_cas_0.972ced3f7795dd507e0a122458052c41.route.chrome_header.db2ced3f5c95dd501aa9717cd2d1744c</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>885409999</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>40891e9387301110eab640c80cbb352e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-07-25 12:12:13</sys_created_on>
+        <sys_id>14afff5487a15590eab640c80cbb3508</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1823545a5480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>d0afff54a9a155901438fd734f9a9c08</update_guid>
+        <update_guid_history>d0afff54a9a155901438fd734f9a9c08:885409999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 18:43:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3cd902ef57e44936915465a9c77dc251</sys_id>
+        <sys_metadata>5b2ced3f0a95dd5047f1d79161fdb643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_5b2ced3f0a95dd5047f1d79161fdb643</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_5b2ced3f0a95dd5047f1d79161fdb643">14afff5487a15590eab640c80cbb3508</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-22 18:43:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

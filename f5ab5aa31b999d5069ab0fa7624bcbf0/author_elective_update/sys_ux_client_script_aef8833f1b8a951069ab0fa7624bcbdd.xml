@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">dc2562a31b4a551069ab0fa7624bcb9b</macroponent>
+        <name>heading_1_label</name>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  console.log(api.context.session.user);
+	return '';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 08:15:05</sys_created_on>
+        <sys_id>aef8833f1b8a951069ab0fa7624bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>heading_1_label</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_client_script_aef8833f1b8a951069ab0fa7624bcbdd</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 08:15:05</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ux_client_script_aef8833f1b8a951069ab0fa7624bcbdd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;dc2562a31b4a551069ab0fa7624bcb9b&lt;/macroponent&gt;&lt;name&gt;heading_1_label&lt;/name&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  console.log(api.context.session.user);
+	return '';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;warwick-cooney-grants&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-27 08:15:05&lt;/sys_created_on&gt;&lt;sys_id&gt;aef8833f1b8a951069ab0fa7624bcbdd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;heading_1_label&lt;/sys_name&gt;&lt;sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0"&gt;f5ab5aa31b999d5069ab0fa7624bcbf0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Data Cases Register"&gt;f5ab5aa31b999d5069ab0fa7624bcbf0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_aef8833f1b8a951069ab0fa7624bcbdd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;warwick-cooney-grants&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-27 08:15:05&lt;/sys_updated_on&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-439651736</payload_hash>
+        <record_name>heading_1_label</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 08:15:06</sys_created_on>
+        <sys_id>aef8473f1b8a951069ab0fa7624bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1837e038f830000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 08:15:06</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>2af8473f6b8a95108b02142f09a86910</update_guid>
+        <update_guid_history>2af8473f6b8a95108b02142f09a86910:-439651736</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 08:15:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>2e5e1301f3784e29b4384840d2ec1099</sys_id>
+        <sys_metadata>aef8833f1b8a951069ab0fa7624bcbdd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>heading_1_label</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_aef8833f1b8a951069ab0fa7624bcbdd</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_aef8833f1b8a951069ab0fa7624bcbdd">aef8473f1b8a951069ab0fa7624bcb10</sys_update_version>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 08:15:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

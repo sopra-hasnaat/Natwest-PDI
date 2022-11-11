@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Data Case Register">8212b59c87291590eab640c80cbb353c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>javascript:"company=" s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_ster2_data_cas_0_javascript__company___</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 17:06:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56290a4a1bca151069ab0fa7624bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>javascript:"company=" s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_app_module_56290a4a1bca151069ab0fa7624bcb55</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 17:06:54</sys_updated_on>
+        <timeline_page/>
+        <title>javascript:"company=" s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_app_module_56290a4a1bca151069ab0fa7624bcb55</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Data Case Register">8212b59c87291590eab640c80cbb353c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>javascript:"company=" s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_ster2_data_cas_0_javascript__company___</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-21 17:06:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>56290a4a1bca151069ab0fa7624bcb55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>javascript:"company=" s</sys_name><sys_overrides/><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_app_module_56290a4a1bca151069ab0fa7624bcb55</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-21 17:06:54</sys_updated_on><timeline_page/><title>javascript:"company=" s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1905198622</payload_hash>
+        <record_name>javascript:"company=" s</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 17:06:55</sys_created_on>
+        <sys_id>d6290a4a1bca151069ab0fa7624bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18361044bd90000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 17:06:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>12290a4a19ca15108e8a58ab02c87458</update_guid>
+        <update_guid_history>12290a4a19ca15108e8a58ab02c87458:-1905198622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="javascript:&quot;company=&quot; s">fa594e4a1bca151069ab0fa7624bcbf9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 17:07:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>315f52085f074d919f8f0f3b824f12c9</sys_id>
+        <sys_metadata>56290a4a1bca151069ab0fa7624bcb55</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>javascript:"company=" s</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_56290a4a1bca151069ab0fa7624bcb55</sys_update_name>
+        <sys_update_version display_value="sys_app_module_56290a4a1bca151069ab0fa7624bcb55">d6290a4a1bca151069ab0fa7624bcb58</sys_update_version>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 17:07:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

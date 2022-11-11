@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref display_value="RBS Loans App">029ae1fb1b95dd5069ab0fa7624bcb93</published_ref>
+        <question display_value="What is the name of the System where the issue has been identified?">ecdff8d41b92191069ab0fa7624bcbac</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-28 11:32:48</sys_created_on>
+        <sys_id>e8dff8d41b92191069ab0fa7624bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RBS Loans App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>question_choice_e8dff8d41b92191069ab0fa7624bcbb3</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:32:48</sys_updated_on>
+        <text>RBS Loans App</text>
+        <value>rbs_loans_app</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=e8dff8d41b92191069ab0fa7624bcbb3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>question_choice_e8dff8d41b92191069ab0fa7624bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>400</order><published_ref display_value="RBS Loans App">029ae1fb1b95dd5069ab0fa7624bcb93</published_ref><question display_value="What is the name of the System where the issue has been identified?">ecdff8d41b92191069ab0fa7624bcbac</question><sys_class_name>question_choice</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-28 11:32:48</sys_created_on><sys_id>e8dff8d41b92191069ab0fa7624bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RBS Loans App</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>question_choice_e8dff8d41b92191069ab0fa7624bcbb3</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-28 11:32:48</sys_updated_on><text>RBS Loans App</text><value>rbs_loans_app</value></question_choice><fx_price action="delete_multiple" query="id=e8dff8d41b92191069ab0fa7624bcbb3"/></record_update>]]></payload>
+        <payload_hash>910590385</payload_hash>
+        <record_name>RBS Loans App</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-28 11:32:48</sys_created_on>
+        <sys_id>acdff8d41b92191069ab0fa7624bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18383deecc90000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:32:48</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>24dff8d414921910d9b99fae7904dfb5</update_guid>
+        <update_guid_history>24dff8d414921910d9b99fae7904dfb5:910590385</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="RBS Loans App">e2ef341c875e1910eab640c80cbb3540</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-28 11:33:14</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>12f226d5c99145558262c18c728c5e21</sys_id>
+        <sys_metadata>e8dff8d41b92191069ab0fa7624bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RBS Loans App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="">ecdff8d41b92191069ab0fa7624bcbac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>question_choice_e8dff8d41b92191069ab0fa7624bcbb3</sys_update_name>
+        <sys_update_version display_value="question_choice_e8dff8d41b92191069ab0fa7624bcbb3">acdff8d41b92191069ab0fa7624bcbb5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:33:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

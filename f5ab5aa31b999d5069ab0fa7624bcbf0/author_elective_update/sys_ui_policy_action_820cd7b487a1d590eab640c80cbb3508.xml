@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>business_area_raising_case</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:25:23</sys_created_on>
+        <sys_id>820cd7b487a1d590eab640c80cbb3508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_area_raising_case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_820cd7b487a1d590eab640c80cbb3508</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:25:23</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <ui_policy display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ui_policy_action_820cd7b487a1d590eab640c80cbb3508</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>business_area_raising_case</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-24 05:25:23</sys_created_on><sys_id>820cd7b487a1d590eab640c80cbb3508</sys_id><sys_mod_count>0</sys_mod_count><sys_name>business_area_raising_case</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_ui_policy_action_820cd7b487a1d590eab640c80cbb3508</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-24 05:25:23</sys_updated_on><table>x_ster2_data_cas_0_data_cases_register</table><ui_policy display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-64823740</payload_hash>
+        <record_name>business_area_raising_case</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:25:23</sys_created_on>
+        <sys_id>091c97b487a1d590eab640c80cbb3523</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ce4ff8560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:25:23</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>411c97b4d9a1d590c2de0ae0f46bcd23</update_guid>
+        <update_guid_history>411c97b4d9a1d590c2de0ae0f46bcd23:-64823740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:51:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>3025a907bb7747b9a243be337eb67729</sys_id>
+        <sys_metadata>820cd7b487a1d590eab640c80cbb3508</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_area_raising_case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_820cd7b487a1d590eab640c80cbb3508</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_820cd7b487a1d590eab640c80cbb3508">091c97b487a1d590eab640c80cbb3523</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:51:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="source_system_of_issue" label="Source System of Issue" language="en" table="x_ster2_data_cas_0_data_cases_register">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>source_system_of_issue</element>
+            <help/>
+            <hint/>
+            <label>Source System of Issue</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <plural>Source System of Issues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:35:53</sys_created_on>
+            <sys_id>a1c973e61b82911069ab0fa7624bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Source System of Issue</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_documentation_x_ster2_data_cas_0_data_cases_register_source_system_of_issue_en</sys_update_name>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:35:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

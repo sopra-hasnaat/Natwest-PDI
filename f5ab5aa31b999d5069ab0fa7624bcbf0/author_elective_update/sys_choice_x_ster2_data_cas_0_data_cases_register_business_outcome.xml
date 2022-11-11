@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="business_outcome" table="x_ster2_data_cas_0_data_cases_register" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>business_outcome</element>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:33:40</sys_created_on>
+            <sys_id>c9497ba61b82911069ab0fa7624bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>business_outcome</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_choice_x_ster2_data_cas_0_data_cases_register_business_outcome</sys_update_name>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:33:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85497ba61b82911069ab0fa7624bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:33:40</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1497ba61b82911069ab0fa7624bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:33:40</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81497ba61b82911069ab0fa7624bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:33:40</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

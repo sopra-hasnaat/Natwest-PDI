@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="DELETE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Raise A Data Issue">c75ecd541bd2191069ab0fa7624bcb9c</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
+        <example_text/>
+        <field>business_areas</field>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <hidden>false</hidden>
+        <include_none>false</include_none>
+        <instructions/>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label>name</lookup_label>
+        <lookup_price/>
+        <lookup_table>sys_user_group</lookup_table>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value>name</lookup_value>
+        <macro/>
+        <macroponent/>
+        <mandatory>true</mandatory>
+        <map_to_field>true</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>business_area_raising_case</name>
+        <order>300</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <published_ref display_value="Which Business Area are you creating this Data Issue Case for?">b721036f1b1d9d5069ab0fa7624bcb49</published_ref>
+        <question_text>Which Business Area are you creating this Data Issue Case for?</question_text>
+        <read_only>false</read_only>
+        <read_roles/>
+        <read_script/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>x_ster2_data_cas_0_data_cases_register</record_producer_table>
+        <reference>sys_user_group</reference>
+        <reference_qual>parent=e43426a21b4e511069ab0fa7624bcb56</reference_qual>
+        <reference_qual_condition table="sys_user_group">parent=e43426a21b4e511069ab0fa7624bcb56<item display_table="sys_user_group" display_value="Assignment Groups" endquery="false" field="parent" goto="false" newquery="false" operator="=" or="false" value="e43426a21b4e511069ab0fa7624bcb56"/>
+        </reference_qual_condition>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
+        <save_script/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:36:21</sys_created_on>
+        <sys_id>535ecd541bd2191069ab0fa7624bcbf1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Which Business Area are you creating this Data Issue Case for?</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>item_option_new_535ecd541bd2191069ab0fa7624bcbf1</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:36:46</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>8</type>
+        <ui_page/>
+        <unique>false</unique>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <validate_regex/>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="DELETE" query="documentkey=535ecd541bd2191069ab0fa7624bcbf1"/>
+    <fx_price action="DELETE" query="id=535ecd541bd2191069ab0fa7624bcbf1"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>535ecd541bd2191069ab0fa7624bcbf1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:36:21</sys_created_on>
+        <sys_id>d35ecd541bd2191069ab0fa7624bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:36:21</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>535ecd541bd2191069ab0fa7624bcbf1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:36:21</sys_created_on>
+        <sys_id>975ecd541bd2191069ab0fa7624bcbf3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:36:21</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>item_option_new_535ecd541bd2191069ab0fa7624bcbf1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Raise A Data Issue">c75ecd541bd2191069ab0fa7624bcb9c</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><enable_also_request_for>false</enable_also_request_for><example_text/><field>business_areas</field><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label>name</lookup_label><lookup_price/><lookup_table>sys_user_group</lookup_table><lookup_unique>false</lookup_unique><lookup_value>name</lookup_value><macro/><macroponent/><mandatory>true</mandatory><map_to_field>true</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>business_area_raising_case</name><order>300</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref display_value="Which Business Area are you creating this Data Issue Case for?">b721036f1b1d9d5069ab0fa7624bcb49</published_ref><question_text>Which Business Area are you creating this Data Issue Case for?</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>x_ster2_data_cas_0_data_cases_register</record_producer_table><reference>sys_user_group</reference><reference_qual>parent=e43426a21b4e511069ab0fa7624bcb56</reference_qual><reference_qual_condition table="sys_user_group">parent=e43426a21b4e511069ab0fa7624bcb56<item display_table="sys_user_group" display_value="Assignment Groups" endquery="false" field="parent" goto="false" newquery="false" operator="=" or="false" value="e43426a21b4e511069ab0fa7624bcb56"/></reference_qual_condition><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-28 12:36:21</sys_created_on><sys_id>535ecd541bd2191069ab0fa7624bcbf1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Which Business Area are you creating this Data Issue Case for?</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>item_option_new_535ecd541bd2191069ab0fa7624bcbf1</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-28 12:36:46</sys_updated_on><table/><tooltip/><type>8</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=535ecd541bd2191069ab0fa7624bcbf1"/><fx_price action="delete_multiple" query="id=535ecd541bd2191069ab0fa7624bcbf1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>535ecd541bd2191069ab0fa7624bcbf1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-28 12:36:21</sys_created_on><sys_id>d35ecd541bd2191069ab0fa7624bcbf4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-28 12:36:21</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>535ecd541bd2191069ab0fa7624bcbf1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-28 12:36:21</sys_created_on><sys_id>975ecd541bd2191069ab0fa7624bcbf3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-28 12:36:21</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-106531589</payload_hash>
+        <record_name>Which Business Area are you creating this Data Issue Case for?</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:36:46</sys_created_on>
+        <sys_id>a97e81941bd2191069ab0fa7624bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18384197e0c0000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:36:46</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>217e81947ad21910210b7beb1e3ba67b</update_guid>
+        <update_guid_history>217e81947ad21910210b7beb1e3ba67b:-106531589,535ecd5465d2191040f13b39f659b2f7:-962935610</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Which Business Area are you creating this Data Issue Case for?">737e05d8879e1910eab640c80cbb358d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-28 12:36:56</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
+        <sys_id>43208d4f2f0d4f509365a6f91d6ba604</sys_id>
+        <sys_metadata>535ecd541bd2191069ab0fa7624bcbf1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Which Business Area are you creating this Data Issue Case for?</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="">c75ecd541bd2191069ab0fa7624bcb9c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>item_option_new_535ecd541bd2191069ab0fa7624bcbf1</sys_update_name>
+        <sys_update_version display_value="item_option_new_535ecd541bd2191069ab0fa7624bcbf1">a97e81941bd2191069ab0fa7624bcb7b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:36:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Raise A Data Issue Case">3800cbeb1b1d9d5069ab0fa7624bcbc0</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 06:13:38</sys_created_on>
+        <sys_id>7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise A Data Issue Case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 06:13:38</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_catalog_7cc04b2f1b1d9d5069ab0fa7624bcb33</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise A Data Issue Case">3800cbeb1b1d9d5069ab0fa7624bcbc0</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-08-20 06:13:38</sys_created_on><sys_id>7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Raise A Data Issue Case</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_catalog_7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-08-20 06:13:38</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1629112162</payload_hash>
+        <record_name>Service Catalog.Raise A Data Issue Case</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 06:13:38</sys_created_on>
+        <sys_id>38c04b2f1b1d9d5069ab0fa7624bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182b9e2b5c60000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 06:13:38</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>bcc04b2f491d9d5075990fbda8d0b435</update_guid>
+        <update_guid_history>bcc04b2f491d9d5075990fbda8d0b435:1629112162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Raise A Data Issue Case">05118f2f1b1d9d5069ab0fa7624bcb35</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 06:15:01</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>83ed45e1d53d47009b0d637e88fc4000</sys_id>
+        <sys_metadata>7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise A Data Issue Case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="Raise A Data Issue">3800cbeb1b1d9d5069ab0fa7624bcbc0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7cc04b2f1b1d9d5069ab0fa7624bcb33</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7cc04b2f1b1d9d5069ab0fa7624bcb33">38c04b2f1b1d9d5069ab0fa7624bcb36</sys_update_version>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 06:15:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

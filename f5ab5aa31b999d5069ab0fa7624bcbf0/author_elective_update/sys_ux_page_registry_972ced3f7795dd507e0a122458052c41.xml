@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>7e2ced3f1b95dd5069ab0fa7624bcb25</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>natwest-data-cases-register</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-20 18:42:38</sys_created_on>
+        <sys_id>972ced3f7795dd507e0a122458052c41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Data Cases Register</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_page_registry_972ced3f7795dd507e0a122458052c41</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:42:38</sys_updated_on>
+        <title>Natwest Data Cases Register</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ux_page_registry_972ced3f7795dd507e0a122458052c41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>7e2ced3f1b95dd5069ab0fa7624bcb25</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>natwest-data-cases-register</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-08-20 18:42:38</sys_created_on><sys_id>972ced3f7795dd507e0a122458052c41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Natwest Data Cases Register</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_ux_page_registry_972ced3f7795dd507e0a122458052c41</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-08-20 18:42:38</sys_updated_on><title>Natwest Data Cases Register</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1675107400</payload_hash>
+        <record_name>Natwest Data Cases Register</record_name>
+        <reverted_from/>
+        <source>40891e9387301110eab640c80cbb352e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-07-25 12:12:13</sys_created_on>
+        <sys_id>14aff75487a15590eab640c80cbb3552</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1823545a5480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>d0aff7548da155908f1abef6a2cd0d52</update_guid>
+        <update_guid_history>d0aff7548da155908f1abef6a2cd0d52:1675107400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 18:43:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>ceb65a12d35549a1bb66da6dfe91e9b1</sys_id>
+        <sys_metadata>972ced3f7795dd507e0a122458052c41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Data Cases Register</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_972ced3f7795dd507e0a122458052c41</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_972ced3f7795dd507e0a122458052c41">14aff75487a15590eab640c80cbb3552</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-22 18:43:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

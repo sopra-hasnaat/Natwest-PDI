@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="action_category" table="x_ster2_data_cas_0_data_cases_register" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>action_category</element>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_id>8937aa631bd99d5069ab0fa7624bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>action_category</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_choice_x_ster2_data_cas_0_data_cases_register_action_category</sys_update_name>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Analysis / Investigation</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4537aa631bd99d5069ab0fa7624bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>analysis_investigation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Communication to Data Provider</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0137aa631bd99d5069ab0fa7624bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>communication_to_data_provider</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duplicate</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0537aa631bd99d5069ab0fa7624bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>duplicate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insufficient Information</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c137aa631bd99d5069ab0fa7624bcb5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>insufficient_information</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Action</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8137aa631bd99d5069ab0fa7624bcb5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>no_action</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0937aa631bd99d5069ab0fa7624bcb6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Fix</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c537aa631bd99d5069ab0fa7624bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>process_fix</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strategic Fix - System</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8537aa631bd99d5069ab0fa7624bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>strategic_fix_system</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>action_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tactical Fix - System</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4537aa631bd99d5069ab0fa7624bcb7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:21:58</sys_updated_on>
+            <value>tactical_fix_system</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

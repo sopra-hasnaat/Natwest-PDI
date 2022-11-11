@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_mutual_exclusion_rule">
+    <sys_atf_mutual_exclusion_rule action="DELETE">
+        <notes/>
+        <sys_class_name>sys_atf_mutual_exclusion_rule</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:45:59</sys_created_on>
+        <sys_id>85cc9cea1b96115069ab0fa7624bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_mutual_exclusion_rule_85cc9cea1b96115069ab0fa7624bcbc4</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:45:59</sys_updated_on>
+        <test1 display_value="DIR - Raise a Data Issue">bcd72c961b1add1069ab0fa7624bcbbb</test1>
+        <test2 display_value="DIR - Status Change to In Progress to Communications Team">ddbb58aa1b96115069ab0fa7624bcb5f</test2>
+    </sys_atf_mutual_exclusion_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_atf_mutual_exclusion_rule_85cc9cea1b96115069ab0fa7624bcbc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_mutual_exclusion_rule"><sys_atf_mutual_exclusion_rule action="INSERT_OR_UPDATE"><notes/><sys_class_name>sys_atf_mutual_exclusion_rule</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-10-05 08:45:59</sys_created_on><sys_id>85cc9cea1b96115069ab0fa7624bcbc4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_atf_mutual_exclusion_rule_85cc9cea1b96115069ab0fa7624bcbc4</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-10-05 08:45:59</sys_updated_on><test1 display_value="DIR - Raise a Data Issue">bcd72c961b1add1069ab0fa7624bcbbb</test1><test2 display_value="DIR - Status Change to In Progress to Communications Team">ddbb58aa1b96115069ab0fa7624bcb5f</test2></sys_atf_mutual_exclusion_rule></record_update>]]></payload>
+        <payload_hash>-1433987591</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:45:59</sys_created_on>
+        <sys_id>0dcc9cea1b96115069ab0fa7624bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a752b6940000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:45:59</sys_updated_on>
+        <type>Mutual Exclusion Rule</type>
+        <update_guid>45cc9ceaf2961150dde181199afadbc6</update_guid>
+        <update_guid_history>45cc9ceaf2961150dde181199afadbc6:-1433987591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:47:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_mutual_exclusion_rule">sys_atf_mutual_exclusion_rule</sys_db_object>
+        <sys_id>22d5c42e67a34fc6b33996438d274f24</sys_id>
+        <sys_metadata>85cc9cea1b96115069ab0fa7624bcbc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_atf_mutual_exclusion_rule_85cc9cea1b96115069ab0fa7624bcbc4</sys_update_name>
+        <sys_update_version display_value="sys_atf_mutual_exclusion_rule_85cc9cea1b96115069ab0fa7624bcbc4">0dcc9cea1b96115069ab0fa7624bcbc6</sys_update_version>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:47:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

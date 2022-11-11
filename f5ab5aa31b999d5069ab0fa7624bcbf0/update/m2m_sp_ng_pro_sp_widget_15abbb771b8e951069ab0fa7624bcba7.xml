@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE">
+        <sp_angular_provider display_value="scBasicSelect">e225f8b43b0523008ed00d8044efc4fe</sp_angular_provider>
+        <sp_widget display_value="My Requests Issue Register">95abbb771b8e951069ab0fa7624bcba3</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-27 11:56:28</sys_created_on>
+        <sys_id>15abbb771b8e951069ab0fa7624bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scBasicSelect.My Requests Issue Register</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_15abbb771b8e951069ab0fa7624bcba7</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 11:56:28</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+</record_update>

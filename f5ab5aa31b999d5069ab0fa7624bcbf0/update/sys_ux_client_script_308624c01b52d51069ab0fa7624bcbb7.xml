@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">dc2562a31b4a551069ab0fa7624bcb9b</macroponent>
+        <name>heading_1_label</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    var roles = api.context.session.user.roles;
+    console.log(roles);
+
+    switch (true) {
+        case roles.includes('x_ster2_data_cas_0.wealth_team_user'):
+            var result = 'Wealth Team';
+            break;
+        case roles.includes('x_ster2_data_cas_0.communications_team_user'):
+            var result = 'Communications Team';
+            break;
+    }
+
+    return api.context.session.user.fullName + ' - ' + result;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 15:03:45</sys_created_on>
+        <sys_id>308624c01b52d51069ab0fa7624bcbb7</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>heading_1_label</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_client_script_308624c01b52d51069ab0fa7624bcbb7</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 09:00:57</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

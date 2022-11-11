@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Data Cases Register - New Tab">aeced2d587215990eab640c80cbb35dc</grid_canvas>
+        <height>8</height>
+        <portal_widget display_value="Created 26/08/2022 08:06:43">7876862987ed5990eab640c80cbb35c8</portal_widget>
+        <posx>0</posx>
+        <posy>24</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 07:06:43</sys_created_on>
+        <sys_id>c9768a2987ed5990eab640c80cbb3553</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>aeced2d587215990eab640c80cbb35dc</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c9768a2987ed5990eab640c80cbb3553</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 11:20:10</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_grid_canvas_pane_c9768a2987ed5990eab640c80cbb3553</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Data Cases Register - New Tab">aeced2d587215990eab640c80cbb35dc</grid_canvas><height>8</height><portal_widget display_value="Created 26/08/2022 08:06:43">7876862987ed5990eab640c80cbb35c8</portal_widget><posx>0</posx><posy>24</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-26 07:06:43</sys_created_on><sys_id>c9768a2987ed5990eab640c80cbb3553</sys_id><sys_mod_count>13</sys_mod_count><sys_name>aeced2d587215990eab640c80cbb35dc</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_grid_canvas_pane_c9768a2987ed5990eab640c80cbb3553</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-26 11:20:10</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>239131421</payload_hash>
+        <record_name>aeced2d587215990eab640c80cbb35dc</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 11:20:10</sys_created_on>
+        <sys_id>6170436587e19990eab640c80cbb3588</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182d9e17edc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 11:20:10</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>a970436562e199906221038c7c481887</update_guid>
+        <update_guid_history>a970436562e199906221038c7c481887:239131421,2d60036569e19990f94bc6cb75bc965d:-446636197,d650cf2562e1999049dd4a9c7dc57717:1808867612,5a50cf25b5e19990049924d690092115:-1475287624,da50cf2545e19990b78afb9d927f3813:-789520006,f6df762533e19990af4f76c3bdd156e0:-446636197,7adf7625c5e19990d070c2a5d17189de:564175863,fadf762566e199904a082e7f427c22dc:1249943481,ddb68e297ced5990903a7cde4fc1b01c:1592827290,21a68e291eed5990658802100c3f8e6b:1249943481,98a68e2956ed599054fe0ed1af172315:711439322,af864a29a5ed599059b49da3ff9535e2:1072162498,ec86ca2967ed5990eebaf8daefde44f3:-1183341311,c9768a293fed5990300d0642b8480254:1991747286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>yvonne-sinclair-grants</sys_created_by>
+        <sys_created_on>2022-10-04 08:56:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>21476e7c413d4d388bbbdfb0c56970e4</sys_id>
+        <sys_metadata>c9768a2987ed5990eab640c80cbb3553</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aeced2d587215990eab640c80cbb35dc</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_c9768a2987ed5990eab640c80cbb3553</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_c9768a2987ed5990eab640c80cbb3553">6170436587e19990eab640c80cbb3588</sys_update_version>
+        <sys_updated_by>yvonne-sinclair-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 08:56:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

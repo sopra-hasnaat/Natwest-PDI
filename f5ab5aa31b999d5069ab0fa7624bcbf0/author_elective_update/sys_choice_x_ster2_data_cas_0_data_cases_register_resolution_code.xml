@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="resolution_code" table="x_ster2_data_cas_0_data_cases_register" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>resolution_code</element>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_id>1c79082087e15590eab640c80cbb3508</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>resolution_code</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_choice_x_ster2_data_cas_0_data_cases_register_resolution_code</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-22 19:26:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Control Weakness Identified</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-26 15:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a13cdf6f1b0e551069ab0fa7624bcbbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Duplicate</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d479082087e15590eab640c80cbb3508</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>duplicate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Not Data Related</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:39:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87c0ce087e15590eab640c80cbb3533</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-21 09:20:32</sys_updated_on>
+            <value>not_data_related</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>No Control Weakness</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5479082087e15590eab640c80cbb350d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>no_control_weakness</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Remediation Threshold Not Met</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:39:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c7c0ce087e15590eab640c80cbb3582</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-21 09:20:32</sys_updated_on>
+            <value>remediation_threshold_not_met</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Root Cause Remediation Complete</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1479082087e15590eab640c80cbb3511</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>root_cause_remediation_complete</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With Root Cause Analysis</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-26 15:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>213cdf6f1b0e551069ab0fa7624bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Material Risk Identified</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d079082087e15590eab640c80cbb3515</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>material_risk_identified</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Without Root Cause Analysis</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-26 15:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>613cdf6f1b0e551069ab0fa7624bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Control Weakness Identified</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9079082087e15590eab640c80cbb3519</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
+            <value>control_weakness_identified</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Solution Provided</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5079082087e15590eab640c80cbb351d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:39</sys_updated_on>
+            <value>solution_provided</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Workaround Provided</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1079082087e15590eab640c80cbb3521</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:39</sys_updated_on>
+            <value>workaround_provided</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>User Error</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9479082087e15590eab640c80cbb3531</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:39</sys_updated_on>
+            <value>user_error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Logged In Error</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-22 19:39:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e87c0ce087e15590eab640c80cbb3586</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-26 15:00:39</sys_updated_on>
+            <value>logged_in_error</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

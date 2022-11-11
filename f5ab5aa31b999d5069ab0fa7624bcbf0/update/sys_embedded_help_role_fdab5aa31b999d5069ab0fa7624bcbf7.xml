@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_ster2_data_cas_0.admin" name="x_ster2_data_cas_0.admin">71ab5aa31b999d5069ab0fa7624bcbf6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 03:31:31</sys_created_on>
+        <sys_id>fdab5aa31b999d5069ab0fa7624bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>71ab5aa31b999d5069ab0fa7624bcbf6</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fdab5aa31b999d5069ab0fa7624bcbf7</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 03:31:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

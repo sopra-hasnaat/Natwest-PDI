@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref display_value="RBS Mortgages App">429ae1fb1b95dd5069ab0fa7624bcb90</published_ref>
+        <question display_value="What is the name of the System where the issue has been identified?">1d6f09d41bd2191069ab0fa7624bcb73</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:40:51</sys_created_on>
+        <sys_id>d96f09d41bd2191069ab0fa7624bcb80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RBS Mortgages App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>question_choice_d96f09d41bd2191069ab0fa7624bcb80</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:40:51</sys_updated_on>
+        <text>RBS Mortgages App</text>
+        <value>rbs_mortgages_app</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=d96f09d41bd2191069ab0fa7624bcb80"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>question_choice_d96f09d41bd2191069ab0fa7624bcb80</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref display_value="RBS Mortgages App">429ae1fb1b95dd5069ab0fa7624bcb90</published_ref><question display_value="What is the name of the System where the issue has been identified?">1d6f09d41bd2191069ab0fa7624bcb73</question><sys_class_name>question_choice</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-28 12:40:51</sys_created_on><sys_id>d96f09d41bd2191069ab0fa7624bcb80</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RBS Mortgages App</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>question_choice_d96f09d41bd2191069ab0fa7624bcb80</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-28 12:40:51</sys_updated_on><text>RBS Mortgages App</text><value>rbs_mortgages_app</value></question_choice><fx_price action="delete_multiple" query="id=d96f09d41bd2191069ab0fa7624bcb80"/></record_update>]]></payload>
+        <payload_hash>1760384710</payload_hash>
+        <record_name>RBS Mortgages App</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:40:51</sys_created_on>
+        <sys_id>5d6f09d41bd2191069ab0fa7624bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183841d39ed0000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:40:51</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>d16f09d444d21910b53511a79e6f1182</update_guid>
+        <update_guid_history>d16f09d444d21910b53511a79e6f1182:1760384710</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="RBS Mortgages App">be9f091c879e1910eab640c80cbb3513</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-28 12:41:47</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>517c158868444828a9eae46281a3d411</sys_id>
+        <sys_metadata>d96f09d41bd2191069ab0fa7624bcb80</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RBS Mortgages App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="">1d6f09d41bd2191069ab0fa7624bcb73</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>question_choice_d96f09d41bd2191069ab0fa7624bcb80</sys_update_name>
+        <sys_update_version display_value="question_choice_d96f09d41bd2191069ab0fa7624bcb80">5d6f09d41bd2191069ab0fa7624bcb82</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:41:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

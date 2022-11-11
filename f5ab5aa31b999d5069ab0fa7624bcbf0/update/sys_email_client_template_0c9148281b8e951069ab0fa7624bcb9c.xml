@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied/>
+        <body/>
+        <body_html/>
+        <condition/>
+        <content_type>text/html</content_type>
+        <copied/>
+        <email_client_from_address/>
+        <from/>
+        <from_generation_type/>
+        <name/>
+        <order>90</order>
+        <recipients>email</recipients>
+        <reply_to/>
+        <script_from><![CDATA[(function (fromAddressQuery, targetRecord) {
+		/**
+		 * fromAddressQuery: A GlideRecord on the table "sys_email_client_from_address". Add conditions to filter the
+		 * 		the email addresses displayed in the Email Client. 
+		 * targetRecord: A GlideRecord representing the record in which the Email Client was opened from
+		 */
+
+})(fromAddressQuery, targetRecord);]]></script_from>
+        <subject/>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-16 15:23:58</sys_created_on>
+        <sys_id>0c9148281b8e951069ab0fa7624bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_email_client_template_0c9148281b8e951069ab0fa7624bcb9c</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-16 15:23:58</sys_updated_on>
+        <table>sys_user</table>
+    </sys_email_client_template>
+</record_update>

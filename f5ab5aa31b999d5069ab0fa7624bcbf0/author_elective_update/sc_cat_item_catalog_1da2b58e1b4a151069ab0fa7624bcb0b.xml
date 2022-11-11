@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Raise A Data Issue Case">c5a2758e1b4a151069ab0fa7624bcba5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 15:28:32</sys_created_on>
+        <sys_id>1da2b58e1b4a151069ab0fa7624bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise A Data Issue Case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1da2b58e1b4a151069ab0fa7624bcb0b</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:28:32</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_catalog_1da2b58e1b4a151069ab0fa7624bcb0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise A Data Issue Case">c5a2758e1b4a151069ab0fa7624bcba5</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-21 15:28:32</sys_created_on><sys_id>1da2b58e1b4a151069ab0fa7624bcb0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Raise A Data Issue Case</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_catalog_1da2b58e1b4a151069ab0fa7624bcb0b</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-21 15:28:32</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1434083639</payload_hash>
+        <record_name>Service Catalog.Raise A Data Issue Case</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 15:28:32</sys_created_on>
+        <sys_id>5da2b58e1b4a151069ab0fa7624bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18360aa3c9b0000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:28:32</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d1a2b58e104a1510b885f89ae05bdf0e</update_guid>
+        <update_guid_history>d1a2b58e104a1510b885f89ae05bdf0e:1434083639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Raise A Data Issue Case">99a48fab87069510eab640c80cbb354d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-26 13:17:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4b43cdb0b6d94780a5b348b7186cdf90</sys_id>
+        <sys_metadata>1da2b58e1b4a151069ab0fa7624bcb0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise A Data Issue Case</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="Raise A Data Issue">3800cbeb1b1d9d5069ab0fa7624bcbc0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1da2b58e1b4a151069ab0fa7624bcb0b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1da2b58e1b4a151069ab0fa7624bcb0b">5da2b58e1b4a151069ab0fa7624bcb0e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-26 13:17:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_ster2_data_cas_0.DIR - Triage Team</api_name>
+        <description>DIR Triage Team User</description>
+        <name>DIR - Triage Team</name>
+        <roles name="x_ster2_data_cas_0.data_culture_triage_team_user">e6a480b21bc2911069ab0fa7624bcbac</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-23 15:38:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4cf748761bc2911069ab0fa7624bcb23</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>DIR - Triage Team</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_applicability_4cf748761bc2911069ab0fa7624bcb23</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 08:51:56</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

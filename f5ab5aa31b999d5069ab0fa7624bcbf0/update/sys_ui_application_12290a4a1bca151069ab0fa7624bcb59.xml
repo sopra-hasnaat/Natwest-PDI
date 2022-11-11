@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Data Case Register</name>
+        <order/>
+        <roles>admin,x_ster2_data_cas_0.admin,x_ster2_data_cas_0.user,snc_internal,itil,workspace_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 17:06:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12290a4a1bca151069ab0fa7624bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Data Case Register</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ui_application_12290a4a1bca151069ab0fa7624bcb59</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 17:06:55</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_5f2ced3fcc95dd50cf9f4a6cc99c204d</event_name>
+        <interfaces/>
+        <label>Nav Item Selected Relay (Record Page(request) Default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"If redirect is true, url will be redirected"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi instance field"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub navigation route "},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-20 18:42:38</sys_created_on>
+        <sys_id>532ced3f0995dd50bade8edf84ed5f45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav Item Selected Relay (Record Page(request) Default)</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_event_532ced3f0995dd50bade8edf84ed5f45</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:42:38</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=532ced3f0995dd50bade8edf84ed5f45"/>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">12b16f9764101110a866d1e779b53067</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 03:53:18</sys_created_on>
+        <sys_id>01a022eb1b999d5069ab0fa7624bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 03:53:18</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

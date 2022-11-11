@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open 'Raise A Data Issue' Record Producer</description>
+        <display_name>Open a Record Producer</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open a Record Producer">77409f72c300320076173b0ac3d3ae19</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:56:21</sys_created_on>
+        <sys_id>87e72c961b1add1069ab0fa7624bcbcf</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Open a Record Producer</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_step_87e72c961b1add1069ab0fa7624bcbcf</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 15:04:37</sys_updated_on>
+        <table/>
+        <test display_value="DIR - Raise a Data Issue and Assign to Communications Team">bcd72c961b1add1069ab0fa7624bcbbb</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=87e72c961b1add1069ab0fa7624bcbcf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>87e72c961b1add1069ab0fa7624bcbcf</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:56:22</sys_created_on>
+        <sys_id>b4f7ac961b1add1069ab0fa7624bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:56:22</sys_updated_on>
+        <value>3800cbeb1b1d9d5069ab0fa7624bcbc0</value>
+        <variable display_value="Record Producer">a9145b43c300320076173b0ac3d3ae0e</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_77409f72c300320076173b0ac3d3ae19^id=87e72c961b1add1069ab0fa7624bcbcf"/>
+</record_update>
