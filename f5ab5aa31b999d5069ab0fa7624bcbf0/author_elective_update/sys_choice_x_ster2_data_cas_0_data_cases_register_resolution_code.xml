@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-08-22 19:26:37</sys_created_on>
-            <sys_id>1c79082087e15590eab640c80cbb3508</sys_id>
+            <sys_id>a5b860681bf825502eda6357b04bcb3b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>resolution_code</sys_name>
             <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
@@ -35,6 +35,26 @@
             <sys_updated_by>has-khan-grants</sys_updated_by>
             <sys_updated_on>2022-09-26 15:00:38</sys_updated_on>
             <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Control Weakness Identified</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>hasnaat.khan.ems</sys_created_by>
+            <sys_created_on>2023-01-31 12:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7820c9641b7c25502eda6357b04bcb07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-01-31 12:49:39</sys_updated_on>
+            <value>Control Weakness Identified</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -75,6 +95,86 @@
             <sys_updated_by>has-khan-grants</sys_updated_by>
             <sys_updated_on>2022-09-21 09:20:32</sys_updated_on>
             <value>not_data_related</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Remediation Threshold Not Met</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>hasnaat.khan.ems</sys_created_by>
+            <sys_created_on>2023-01-31 12:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c2089641b7c25502eda6357b04bcbb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-01-31 12:49:37</sys_updated_on>
+            <value>Remediation Threshold Not Met</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Provided</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>hasnaat.khan.ems</sys_created_by>
+            <sys_created_on>2023-01-31 12:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a42089641b7c25502eda6357b04bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-01-31 12:49:38</sys_updated_on>
+            <value>Solution Provided</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User Error</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>hasnaat.khan.ems</sys_created_by>
+            <sys_created_on>2023-01-31 12:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>682089641b7c25502eda6357b04bcbf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-01-31 12:49:38</sys_updated_on>
+            <value>User Error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>resolution_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workaround Provided</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>hasnaat.khan.ems</sys_created_by>
+            <sys_created_on>2023-01-31 12:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>242089641b7c25502eda6357b04bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-01-31 12:49:38</sys_updated_on>
+            <value>Workaround Provided</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
