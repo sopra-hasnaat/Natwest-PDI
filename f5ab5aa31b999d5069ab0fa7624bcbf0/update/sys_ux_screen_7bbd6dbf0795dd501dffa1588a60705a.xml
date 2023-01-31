@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Data Case Issues Agent Workspace Config">77bd6dbfde95dd50f019db5dc50e636a</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Workspace notification">2683731bb7fa5010fddc6c91de11a93c</macroponent>
+        <macroponent_config/>
+        <name>Notification tray default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Notification tray">3bbd6dbf5e95dd50de1fd4a7e4e93c69</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 18:49:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7bbd6dbf0795dd501dffa1588a60705a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification tray default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_screen_7bbd6dbf0795dd501dffa1588a60705a</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:49:26</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7bbd6dbf0795dd501dffa1588a60705a"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-04 15:09:27</sys_created_on>
+        <sys_id>03ea689a1b1add1069ab0fa7624bcbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bcd72c961b1add1069ab0fa7624bcbbb</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_03ea689a1b1add1069ab0fa7624bcbe8</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 15:09:27</sys_updated_on>
+        <test display_value="DIR - Raise a Data Issue and Assign to Communications Team">bcd72c961b1add1069ab0fa7624bcbbb</test>
+        <test_suite display_value="DIR - Data Issue Register">88eae49a1b1add1069ab0fa7624bcbec</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

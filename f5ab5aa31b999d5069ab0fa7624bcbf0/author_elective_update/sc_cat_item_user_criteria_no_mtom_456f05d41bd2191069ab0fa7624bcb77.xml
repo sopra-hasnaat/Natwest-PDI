@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">856f05d41bd2191069ab0fa7624bcb75</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-28 12:40:50</sys_created_on>
+        <sys_id>456f05d41bd2191069ab0fa7624bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue.SNC External</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_456f05d41bd2191069ab0fa7624bcb77</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:40:50</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_456f05d41bd2191069ab0fa7624bcb77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">856f05d41bd2191069ab0fa7624bcb75</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-28 12:40:50</sys_created_on><sys_id>456f05d41bd2191069ab0fa7624bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Raise A Data Issue.SNC External</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_456f05d41bd2191069ab0fa7624bcb77</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-28 12:40:50</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>2039896548</payload_hash>
+        <record_name>Raise A Data Issue.SNC External</record_name>
+        <reverted_from/>
+        <source>0c5c7a301b02111069ab0fa7624bcb80</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-17 23:37:59</sys_created_on>
+        <sys_id>df9f091c879e1910eab640c80cbb35e5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1834dd0e3d80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>9f9f091c7d9e1910976c836077f8a2e5</update_guid>
+        <update_guid_history>9f9f091c7d9e1910976c836077f8a2e5:2039896548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Raise A Data Issue.SNC External">1b9f091c879e1910eab640c80cbb35e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-28 12:41:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>51fe54c956034b44a248de6e6f4b2a64</sys_id>
+        <sys_metadata>456f05d41bd2191069ab0fa7624bcb77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue.SNC External</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_456f05d41bd2191069ab0fa7624bcb77</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_456f05d41bd2191069ab0fa7624bcb77">df9f091c879e1910eab640c80cbb35e5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:41:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref display_value="Natwest Markets App">429a69bb1b95dd5069ab0fa7624bcb6e</published_ref>
+        <question display_value="What is the name of the System where the issue has been identified?">09a2758e1b4a151069ab0fa7624bcbd6</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 15:28:32</sys_created_on>
+        <sys_id>55a2758e1b4a151069ab0fa7624bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Markets App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>question_choice_55a2758e1b4a151069ab0fa7624bcbe2</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:28:32</sys_updated_on>
+        <text>Natwest Markets App</text>
+        <value>natwest_markets_app</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=55a2758e1b4a151069ab0fa7624bcbe2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>question_choice_55a2758e1b4a151069ab0fa7624bcbe2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref display_value="Natwest Markets App">429a69bb1b95dd5069ab0fa7624bcb6e</published_ref><question display_value="What is the name of the System where the issue has been identified?">09a2758e1b4a151069ab0fa7624bcbd6</question><sys_class_name>question_choice</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-21 15:28:32</sys_created_on><sys_id>55a2758e1b4a151069ab0fa7624bcbe2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Natwest Markets App</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>question_choice_55a2758e1b4a151069ab0fa7624bcbe2</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-21 15:28:32</sys_updated_on><text>Natwest Markets App</text><value>natwest_markets_app</value></question_choice><fx_price action="delete_multiple" query="id=55a2758e1b4a151069ab0fa7624bcbe2"/></record_update>]]></payload>
+        <payload_hash>704648829</payload_hash>
+        <record_name>Natwest Markets App</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 15:28:32</sys_created_on>
+        <sys_id>d9a2758e1b4a151069ab0fa7624bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18360aa3afc0000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:28:32</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>51a2758e264a151072d11fbefeddc9e4</update_guid>
+        <update_guid_history>51a2758e264a151072d11fbefeddc9e4:704648829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Natwest Markets App">e0d5fd421b8a151069ab0fa7624bcbbc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-21 15:42:24</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>373bb282eca44137aa57f93f93fffe59</sys_id>
+        <sys_metadata>55a2758e1b4a151069ab0fa7624bcbe2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Markets App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="">09a2758e1b4a151069ab0fa7624bcbd6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>question_choice_55a2758e1b4a151069ab0fa7624bcbe2</sys_update_name>
+        <sys_update_version display_value="question_choice_55a2758e1b4a151069ab0fa7624bcbe2">d9a2758e1b4a151069ab0fa7624bcbe4</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:42:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

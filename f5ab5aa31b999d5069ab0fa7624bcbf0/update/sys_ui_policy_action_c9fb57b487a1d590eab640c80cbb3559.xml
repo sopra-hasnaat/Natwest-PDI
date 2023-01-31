@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>subcategory</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:25:03</sys_created_on>
+        <sys_id>c9fb57b487a1d590eab640c80cbb3559</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>subcategory</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c9fb57b487a1d590eab640c80cbb3559</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:25:03</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <ui_policy display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

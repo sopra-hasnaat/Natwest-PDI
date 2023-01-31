@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Impersonate the user: Bess Marso with user Id: bess.marso
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>7</order>
+        <snapshot/>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:49:23</sys_created_on>
+        <sys_id>028dd82e1b96115069ab0fa7624bcbf8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_step_028dd82e1b96115069ab0fa7624bcbf8</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:58:06</sys_updated_on>
+        <table/>
+        <test display_value="DIR - Raise a Data Issue">bcd72c961b1add1069ab0fa7624bcbbb</test>
+        <timeout/>
+        <warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=028dd82e1b96115069ab0fa7624bcbf8"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>028dd82e1b96115069ab0fa7624bcbf8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:49:23</sys_created_on>
+        <sys_id>ba8d5c2e1b96115069ab0fa7624bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:49:23</sys_updated_on>
+        <value>9a826bf03710200044e0bfc8bcbe5dc8</value>
+        <variable display_value="User">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=028dd82e1b96115069ab0fa7624bcbf8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_atf_step_028dd82e1b96115069ab0fa7624bcbf8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Impersonate the user: Bess Marso with user Id: bess.marso
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>7</order><snapshot/><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-10-05 08:49:23</sys_created_on><sys_id>028dd82e1b96115069ab0fa7624bcbf8</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_atf_step_028dd82e1b96115069ab0fa7624bcbf8</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-10-05 08:58:06</sys_updated_on><table/><test display_value="DIR - Raise a Data Issue">bcd72c961b1add1069ab0fa7624bcbbb</test><timeout/><warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=028dd82e1b96115069ab0fa7624bcbf8"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>028dd82e1b96115069ab0fa7624bcbf8</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-10-05 08:49:23</sys_created_on><sys_id>ba8d5c2e1b96115069ab0fa7624bcb4d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-10-05 08:49:23</sys_updated_on><value>9a826bf03710200044e0bfc8bcbe5dc8</value><variable display_value="User">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=028dd82e1b96115069ab0fa7624bcbf8"/></record_update>]]></payload>
+        <payload_hash>-1061958973</payload_hash>
+        <record_name>Impersonate</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 08:58:06</sys_created_on>
+        <sys_id>aa8fd0ee1b96115069ab0fa7624bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a75dcda40000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 08:58:06</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e28fd0ee80961150424555a1741bbb3e</update_guid>
+        <update_guid_history>e28fd0ee80961150424555a1741bbb3e:-1061958973,70aed0ae319611502c38e3959cb8ed63:1144297706,3a9e90ae06961150ef914102ade398d1:-1061958973,be8d9c2ed0961150d0d74c606b38d422:-834835070</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-05 09:03:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>47e61e0e73584ff89caff7a1e362ae40</sys_id>
+        <sys_metadata>028dd82e1b96115069ab0fa7624bcbf8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_028dd82e1b96115069ab0fa7624bcbf8</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_028dd82e1b96115069ab0fa7624bcbf8">aa8fd0ee1b96115069ab0fa7624bcb3e</sys_update_version>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 09:03:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

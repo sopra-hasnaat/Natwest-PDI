@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Raise A Data Issue Case">3800cbeb1b1d9d5069ab0fa7624bcbc0</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 06:27:28</sys_created_on>
+        <sys_id>5be3cfef1b1d9d5069ab0fa7624bcb02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue Case.Any User</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5be3cfef1b1d9d5069ab0fa7624bcb02</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 06:27:28</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_5be3cfef1b1d9d5069ab0fa7624bcb02</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise A Data Issue Case">3800cbeb1b1d9d5069ab0fa7624bcbc0</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-08-20 06:27:28</sys_created_on><sys_id>5be3cfef1b1d9d5069ab0fa7624bcb02</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Raise A Data Issue Case.Any User</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_5be3cfef1b1d9d5069ab0fa7624bcb02</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-08-20 06:27:28</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>501535389</payload_hash>
+        <record_name>Raise A Data Issue Case.Any User</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-20 06:27:28</sys_created_on>
+        <sys_id>d7e3cfef1b1d9d5069ab0fa7624bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182b9ef5e420000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-08-20 06:27:28</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>13e3cfefad1d9d5014496435cc14f105</update_guid>
+        <update_guid_history>13e3cfefad1d9d5014496435cc14f105:501535389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Raise A Data Issue Case.Any User">98d5fd421b8a151069ab0fa7624bcb9e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-21 15:42:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>261cedd8c75d4eb89fad8c5dc6a6c6e4</sys_id>
+        <sys_metadata>5be3cfef1b1d9d5069ab0fa7624bcb02</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue Case.Any User</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5be3cfef1b1d9d5069ab0fa7624bcb02</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_5be3cfef1b1d9d5069ab0fa7624bcb02">d7e3cfef1b1d9d5069ab0fa7624bcb05</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:42:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Update Sub-Status in response to the Assignment Group when changed </description>
+        <field>assignment_group</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Update Sub-Status on  Assi. Group Change</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    var assignment_group = g_form.getReference('assignment_group', callback);
+}
+
+function callback(assignment_group) {
+    switch (assignment_group.name) {
+        case 'Remediation Team':
+			g_form.setValue('state', '1'); // In Progress
+            g_form.setValue('sub_status', 3); // Referred to Remediation Team
+            break;
+		case 'Data Culture Triage Team':
+			g_form.setValue('state', '1'); // In Progress
+            g_form.setValue('sub_status', 2); // Triage Investigation
+            break;
+        default:
+			g_form.setValue('state', '1'); // In Progress
+            g_form.setValue('sub_status', 4); // Referred to F&F
+    }
+    g_form.setValue('assigned_to', assignment_group.manager);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-20 16:21:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9225783d1b86d11069ab0fa7624bcbdc</sys_id>
+        <sys_mod_count>55</sys_mod_count>
+        <sys_name>Update Sub-Status on  Assi. Group Change</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_script_client_9225783d1b86d11069ab0fa7624bcbdc</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-20 14:25:36</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

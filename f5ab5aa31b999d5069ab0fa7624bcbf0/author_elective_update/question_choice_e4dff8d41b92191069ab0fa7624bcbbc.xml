@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref display_value="Natwest Group App">829ae1fb1b95dd5069ab0fa7624bcb8d</published_ref>
+        <question display_value="What is the name of the System where the issue has been identified?">ecdff8d41b92191069ab0fa7624bcbac</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-28 11:32:48</sys_created_on>
+        <sys_id>e4dff8d41b92191069ab0fa7624bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Group App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>question_choice_e4dff8d41b92191069ab0fa7624bcbbc</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:32:48</sys_updated_on>
+        <text>Natwest Group App</text>
+        <value>natwest_group_app</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=e4dff8d41b92191069ab0fa7624bcbbc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>question_choice_e4dff8d41b92191069ab0fa7624bcbbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref display_value="Natwest Group App">829ae1fb1b95dd5069ab0fa7624bcb8d</published_ref><question display_value="What is the name of the System where the issue has been identified?">ecdff8d41b92191069ab0fa7624bcbac</question><sys_class_name>question_choice</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-28 11:32:48</sys_created_on><sys_id>e4dff8d41b92191069ab0fa7624bcbbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Natwest Group App</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>question_choice_e4dff8d41b92191069ab0fa7624bcbbc</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-28 11:32:48</sys_updated_on><text>Natwest Group App</text><value>natwest_group_app</value></question_choice><fx_price action="delete_multiple" query="id=e4dff8d41b92191069ab0fa7624bcbbc"/></record_update>]]></payload>
+        <payload_hash>-2112405709</payload_hash>
+        <record_name>Natwest Group App</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-28 11:32:48</sys_created_on>
+        <sys_id>68dff8d41b92191069ab0fa7624bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18383deed290000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:32:48</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>ecdff8d4b4921910eaa07a72caa0c1bd</update_guid>
+        <update_guid_history>ecdff8d4b4921910eaa07a72caa0c1bd:-2112405709</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Natwest Group App">6eef341c875e1910eab640c80cbb3537</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-28 11:33:14</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>563e27d9f81840cfa4c68fbf0df0df19</sys_id>
+        <sys_metadata>e4dff8d41b92191069ab0fa7624bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Natwest Group App</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="">ecdff8d41b92191069ab0fa7624bcbac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>question_choice_e4dff8d41b92191069ab0fa7624bcbbc</sys_update_name>
+        <sys_update_version display_value="question_choice_e4dff8d41b92191069ab0fa7624bcbbc">68dff8d41b92191069ab0fa7624bcbbe</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:33:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

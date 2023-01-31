@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_ster2_data_cas_0.DIR - Wealth</api_name>
+        <description>DIR Wealth Team User</description>
+        <name>DIR - Wealth</name>
+        <roles name="x_ster2_data_cas_0.wealth_team_user">67be1b371b0e951069ab0fa7624bcbd0</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 09:49:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>746ed7f31b0e951069ab0fa7624bcb8a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>DIR - Wealth</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_applicability_746ed7f31b0e951069ab0fa7624bcb8a</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 08:52:06</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

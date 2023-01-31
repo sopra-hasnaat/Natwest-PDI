@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>resolution_notes</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 04:54:12</sys_created_on>
+        <sys_id>fd9493bc8761d590eab640c80cbb352c</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>resolution_notes</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fd9493bc8761d590eab640c80cbb352c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:01:23</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <ui_policy display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ui_policy_action_fd9493bc8761d590eab640c80cbb352c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>resolution_notes</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-24 04:54:12</sys_created_on><sys_id>fd9493bc8761d590eab640c80cbb352c</sys_id><sys_mod_count>21</sys_mod_count><sys_name>resolution_notes</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_ui_policy_action_fd9493bc8761d590eab640c80cbb352c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-24 05:01:23</sys_updated_on><table>x_ster2_data_cas_0_data_cases_register</table><ui_policy display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-462728598</payload_hash>
+        <record_name>resolution_notes</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:01:23</sys_created_on>
+        <sys_id>6596d73087a1d590eab640c80cbb3505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ce39ff600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:01:23</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>ad96d7309ca1d590a640e85b4d512704</update_guid>
+        <update_guid_history>ad96d7309ca1d590a640e85b4d512704:-462728598,b586d33024a1d5905ea9817552228704:1210413038,e25693300fa1d590a51a5a5605dc44c1:1620446830,5f46133083a1d590e10ba80dcde9ee29:-416558610,c8361330e8a1d590c612605794848220:-412832042,74269ffc3761d5905a2ec98b5549e44e:-569205568,b1169ffc8f61d590204ec6e131a69347:-1574757330,d3061ffc4f61d590ec1f50d0f8d017cc:-450251096,80061ffc5a61d5907f844a63a4ce0f89:111278832,d4f59bfc8661d59090aa31aa66100a45:-1627220018,b4e59bfc9361d5905f94b16048d0563e:1061908480,34d5d7fc9261d59015421fcf457d23a3:562209230,44c557fcae61d5906ad8995e944294c2:-1936929234,f0b517fc4c61d590142bc332d78c90d5:1581853774,30a517fc4c61d590edba85a654b07af7:-1692270194,a19517fcf661d590e9a4a370b0bbe319:458764366,3e85d3fc8261d59030878ed6a8c19cf9:208261734,937513fc5a61d59023211ad705c567b2:1801898176,53655bbc2461d59060f8a7590e9e9623:901851630,7f55dfbcca61d5901bb0e286fba6c3f6:136944522,7c5557bcf761d590f1af1cf46c570d89:-502215730,d8f45bbc8a61d59073f812927c3e3717:-1371669408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:02:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>bec7f96d70994964a5a478299d3eda11</sys_id>
+        <sys_metadata>fd9493bc8761d590eab640c80cbb352c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resolution_notes</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="Make Fields read-only on Close">b8f3977c8761d590eab640c80cbb35d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_fd9493bc8761d590eab640c80cbb352c</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_fd9493bc8761d590eab640c80cbb352c">6596d73087a1d590eab640c80cbb3505</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:02:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="action_category" label="Action Category" language="en" table="x_ster2_data_cas_0_data_cases_register">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>action_category</element>
+            <help/>
+            <hint/>
+            <label>Action Category</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>warwick-cooney-grants</sys_created_by>
+            <sys_created_on>2022-08-20 04:21:55</sys_created_on>
+            <sys_id>00372a631bd99d5069ab0fa7624bcb60</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Action Category</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_documentation_x_ster2_data_cas_0_data_cases_register_action_category_en</sys_update_name>
+            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:33:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

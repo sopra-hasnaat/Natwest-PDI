@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Raise A Data Issue">26557f7f1b4e951069ab0fa7624bcba4</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-27 11:31:44</sys_created_on>
+        <sys_id>83f5f3ff1b4e951069ab0fa7624bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_83f5f3ff1b4e951069ab0fa7624bcbb7</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 11:31:44</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_83f5f3ff1b4e951069ab0fa7624bcbb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise A Data Issue">26557f7f1b4e951069ab0fa7624bcba4</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>has-khan-grants</sys_created_by><sys_created_on>2022-09-27 11:31:44</sys_created_on><sys_id>83f5f3ff1b4e951069ab0fa7624bcbb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Raise A Data Issue.Users with 'Admin' Role</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_83f5f3ff1b4e951069ab0fa7624bcbb7</sys_update_name><sys_updated_by>has-khan-grants</sys_updated_by><sys_updated_on>2022-09-27 11:31:44</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-35581549</payload_hash>
+        <record_name>Raise A Data Issue.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-27 11:31:44</sys_created_on>
+        <sys_id>57f5f3ff1b4e951069ab0fa7624bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1837eb798350000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 11:31:44</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>dbf5f3fffd4e9510e97718c226f5d7b9</update_guid>
+        <update_guid_history>dbf5f3fffd4e9510e97718c226f5d7b9:-35581549</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Raise A Data Issue.Users with 'Admin' Role">4406f3ff1b4e951069ab0fa7624bcbf5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-27 11:31:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>c29d08188bd342e890909dc693a0dcc4</sys_id>
+        <sys_metadata>83f5f3ff1b4e951069ab0fa7624bcbb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Raise A Data Issue.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_83f5f3ff1b4e951069ab0fa7624bcbb7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_83f5f3ff1b4e951069ab0fa7624bcbb7">57f5f3ff1b4e951069ab0fa7624bcbba</sys_update_version>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-27 11:31:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

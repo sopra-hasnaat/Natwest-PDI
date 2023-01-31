@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Raise A Data Issue">28758fa71bca551069ab0fa7624bcba4</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-26 13:21:11</sys_created_on>
+        <sys_id>ec7503e71bca551069ab0fa7624bcbc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Raise A Data Issue</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sc_cat_item_category_ec7503e71bca551069ab0fa7624bcbc8</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-26 13:21:11</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sc_cat_item_category_ec7503e71bca551069ab0fa7624bcbc8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise A Data Issue">28758fa71bca551069ab0fa7624bcba4</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-09-26 13:21:11</sys_created_on><sys_id>ec7503e71bca551069ab0fa7624bcbc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Raise A Data Issue</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sc_cat_item_category_ec7503e71bca551069ab0fa7624bcbc8</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-09-26 13:21:11</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-484373631</payload_hash>
+        <record_name>Can We Help You?.Raise A Data Issue</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-26 13:21:11</sys_created_on>
+        <sys_id>687503e71bca551069ab0fa7624bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18379f5701d0000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-09-26 13:21:11</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ec7503e74bca55108e98351eaeb46acb</update_guid>
+        <update_guid_history>ec7503e74bca55108e98351eaeb46acb:-484373631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Raise A Data Issue">5106ff77870ad510eab640c80cbb3599</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 11:31:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>022ee527f8964c4680050a90ad331604</sys_id>
+        <sys_metadata>ec7503e71bca551069ab0fa7624bcbc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Raise A Data Issue</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ec7503e71bca551069ab0fa7624bcbc8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ec7503e71bca551069ab0fa7624bcbc8">687503e71bca551069ab0fa7624bcbcc</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-27 11:31:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

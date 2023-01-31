@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Data Cases Register - New Tab">aeced2d587215990eab640c80cbb35dc</canvas_page>
+        <name>Data Cases Reports</name>
+        <page display_value="PA Data Cases Register - New Tab">e2ced2d587215990eab640c80cbb35db</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 14:14:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6aced2d587215990eab640c80cbb35df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Data Cases Reports</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>pa_tabs_6aced2d587215990eab640c80cbb35df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 14:21:26</sys_updated_on>
+    </pa_tabs>
+</record_update>

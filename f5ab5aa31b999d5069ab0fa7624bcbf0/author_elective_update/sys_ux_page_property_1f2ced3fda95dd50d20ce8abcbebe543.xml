@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">972ced3f7795dd507e0a122458052c41</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-20 18:42:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f2ced3fda95dd50d20ce8abcbebe543</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_page_property_1f2ced3fda95dd50d20ce8abcbebe543</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:42:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_ster2_data_cas_0.972ced3f7795dd507e0a122458052c41.root.chrome_footer</unique_name>
+        <value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_ux_page_property_1f2ced3fda95dd50d20ce8abcbebe543</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">972ced3f7795dd507e0a122458052c41</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-08-20 18:42:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1f2ced3fda95dd50d20ce8abcbebe543</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_ux_page_property_1f2ced3fda95dd50d20ce8abcbebe543</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-08-20 18:42:37</sys_updated_on><type>json</type><unique_name>x_ster2_data_cas_0.972ced3f7795dd507e0a122458052c41.root.chrome_footer</unique_name><value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>984806850</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>40891e9387301110eab640c80cbb352e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-07-25 12:12:13</sys_created_on>
+        <sys_id>50afbf5487a15590eab640c80cbb35ff</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1823545a5480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>10afbf5415a155908fc6a8a7ff7f03ff</update_guid>
+        <update_guid_history>10afbf5415a155908fc6a8a7ff7f03ff:984806850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 18:43:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>060cae9d979944c38a2ebd14331f7189</sys_id>
+        <sys_metadata>1f2ced3fda95dd50d20ce8abcbebe543</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1f2ced3fda95dd50d20ce8abcbebe543</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1f2ced3fda95dd50d20ce8abcbebe543">50afbf5487a15590eab640c80cbb35ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-22 18:43:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

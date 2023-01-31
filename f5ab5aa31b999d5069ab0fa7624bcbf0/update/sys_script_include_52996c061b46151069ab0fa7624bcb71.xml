@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_ster2_data_cas_0.GetCurrentDateTime</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>GetCurrentDateTime</name>
+        <script><![CDATA[var GetCurrentDateTime = Class.create();
+GetCurrentDateTime.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    dateTime: function() {
+        return GlideDateTime().getDisplayValue();
+    },
+    type: 'GetCurrentDateTime'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 10:12:18</sys_created_on>
+        <sys_id>52996c061b46151069ab0fa7624bcb71</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>GetCurrentDateTime</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_script_include_52996c061b46151069ab0fa7624bcb71</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 13:49:46</sys_updated_on>
+    </sys_script_include>
+</record_update>

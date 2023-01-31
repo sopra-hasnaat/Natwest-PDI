@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter/>
+        <name>DIR - Data Issue Register</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-10-04 15:09:13</sys_created_on>
+        <sys_id>88eae49a1b1add1069ab0fa7624bcbec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DIR - Data Issue Register</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_test_suite_88eae49a1b1add1069ab0fa7624bcbec</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-10-05 09:07:52</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>

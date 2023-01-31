@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="business_outcome" label="Business Outcome" language="en" table="x_ster2_data_cas_0_data_cases_register">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>business_outcome</element>
+            <help/>
+            <hint/>
+            <label>Business Outcome</label>
+            <language>en</language>
+            <name>x_ster2_data_cas_0_data_cases_register</name>
+            <plural>Business Outcomes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>has-khan-grants</sys_created_by>
+            <sys_created_on>2022-09-23 14:33:40</sys_created_on>
+            <sys_id>cd497ba61b82911069ab0fa7624bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business Outcome</sys_name>
+            <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+            <sys_update_name>sys_documentation_x_ster2_data_cas_0_data_cases_register_business_outcome_en</sys_update_name>
+            <sys_updated_by>has-khan-grants</sys_updated_by>
+            <sys_updated_on>2022-09-23 14:33:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

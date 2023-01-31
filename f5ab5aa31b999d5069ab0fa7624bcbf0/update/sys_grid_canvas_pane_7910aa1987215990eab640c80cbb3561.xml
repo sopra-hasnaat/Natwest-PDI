@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Data Cases Register - New Tab">aeced2d587215990eab640c80cbb35dc</grid_canvas>
+        <height>9</height>
+        <portal_widget display_value="Created 25/08/2022 15:20:15">3510aa1987215990eab640c80cbb355e</portal_widget>
+        <posx>0</posx>
+        <posy>17</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 14:20:15</sys_created_on>
+        <sys_id>7910aa1987215990eab640c80cbb3561</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>aeced2d587215990eab640c80cbb35dc</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_7910aa1987215990eab640c80cbb3561</sys_update_name>
+        <sys_updated_by>yvonne-sinclair-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 08:56:18</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

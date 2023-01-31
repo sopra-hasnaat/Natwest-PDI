@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Clear Assigned To Field after the Assignment Group changes</description>
+        <field>assignment_group</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Clear Assigned To Field after Change</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+
+   if (isLoading || newValue == '') {
+
+   return;
+
+   }
+
+   var assGrp = g_form.getControl('assignment_group');
+
+   if(assGrp.changed)
+
+   {
+
+   g_form.setValue('assigned_to','');
+
+   }
+
+   //Type appropriate comment here, and begin script below
+
+}
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-08-21 19:46:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7dd30344876dd190eab640c80cbb3571</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Clear Assigned To Field after Change</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_script_client_7dd30344876dd190eab640c80cbb3571</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 09:22:56</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_script_client_7dd30344876dd190eab640c80cbb3571</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Clear Assigned To Field after the Assignment Group changes&lt;/description&gt;&lt;field&gt;assignment_group&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Clear Assigned To Field after Change&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+
+   if (isLoading || newValue == '') {
+
+   return;
+
+   }
+
+   var assGrp = g_form.getControl('assignment_group');
+
+   if(assGrp.changed)
+
+   {
+
+   g_form.setValue('assigned_to','');
+
+   }
+
+   //Type appropriate comment here, and begin script below
+
+}
+
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;warwick-cooney-grants&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-08-21 19:46:26&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7dd30344876dd190eab640c80cbb3571&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Clear Assigned To Field after Change&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0"&gt;f5ab5aa31b999d5069ab0fa7624bcbf0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Data Cases Register"&gt;f5ab5aa31b999d5069ab0fa7624bcbf0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_7dd30344876dd190eab640c80cbb3571&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;has-khan-grants&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-21 09:22:56&lt;/sys_updated_on&gt;&lt;table&gt;x_ster2_data_cas_0_data_cases_register&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1470974635</payload_hash>
+        <record_name>Clear Assigned To Field after Change</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 09:22:57</sys_created_on>
+        <sys_id>7dfe100a1b06151069ab0fa7624bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1835f5b85670000001</sys_recorded_at>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 09:22:57</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>b5fe100a8d06151018b5b362eba16047</update_guid>
+        <update_guid_history>b5fe100a8d06151018b5b362eba16047:1470974635,63050784966dd190a59c95b93103bdc7:-1864758312,d4b44f44d66dd190a5d0abbbbea36f39:-956826269,0d640344e66dd190ace9e0d88c64fc09:130090169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>has-khan-grants</sys_created_by>
+        <sys_created_on>2022-09-21 09:23:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>404ef520cdee474fa2d177e13a225bc9</sys_id>
+        <sys_metadata>7dd30344876dd190eab640c80cbb3571</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clear Assigned To Field after Change</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent display_value="Data Cases Register">fca022eb1b999d5069ab0fa7624bcb82</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_script_client_7dd30344876dd190eab640c80cbb3571</sys_update_name>
+        <sys_update_version display_value="sys_script_client_7dd30344876dd190eab640c80cbb3571">7dfe100a1b06151069ab0fa7624bcb47</sys_update_version>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-21 09:23:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

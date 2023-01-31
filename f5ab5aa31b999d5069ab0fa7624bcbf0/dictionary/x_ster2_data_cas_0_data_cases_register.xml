@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" extends="task" label="Data Cases Register" max_length="40" name="x_ster2_data_cas_0_data_cases_register" sizeclass="50" text_index="true" type="collection">
+        <element choice="3" label="Action Category" max_length="40" name="action_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Analysis / Investigation" sequence="0" value="analysis_investigation"/>
+                <element inactive_on_update="false" label="Communication to Data Provider" sequence="1" value="communication_to_data_provider"/>
+                <element inactive_on_update="false" label="Duplicate" sequence="2" value="duplicate"/>
+                <element inactive_on_update="false" label="Insufficient Information" sequence="3" value="insufficient_information"/>
+                <element inactive_on_update="false" label="No Action" sequence="4" value="no_action"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+                <element inactive_on_update="false" label="Process Fix" sequence="6" value="process_fix"/>
+                <element inactive_on_update="false" label="Strategic Fix - System" sequence="7" value="strategic_fix_system"/>
+                <element inactive_on_update="false" label="Tactical Fix - System" sequence="8" value="tactical_fix_system"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Business Areas Raising Issue" max_length="1024" name="business_areas" reference="sys_user_group" reference_qual="parent=e43426a21b4e511069ab0fa7624bcb56^EQ" reference_qual_condition="parent=e43426a21b4e511069ab0fa7624bcb56^EQ" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Benefits" max_length="4000" name="business_benefits" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Business Outcome" max_length="40" name="business_outcome" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Business Term ID and Name" max_length="40" name="business_term_id_and_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element choice="3" default="data_case" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data Case" sequence="0" value="data_case"/>
+                <element inactive_on_update="false" label="Non Data Case" sequence="1" value="non_data_case"/>
+            </choice>
+        </element>
+        <element choice="1" default="non_data_related" label="Close Code" max_length="40" name="close_code" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="No Control Weakness" sequence="0" value="no_control_weakness"/>
+                <element inactive_on_update="false" label="Non Data Related" sequence="0" value="non_data_related"/>
+                <element inactive="true" inactive_on_update="true" label="Material Risk Identified" sequence="1" value="material_risk_identified"/>
+                <element inactive_on_update="false" label="Remediation Threshold Not Met" sequence="1" value="remediation_threshold_not_met"/>
+                <element inactive="true" inactive_on_update="true" label="Control Weakness Identified" sequence="2" value="control_weakness_identified"/>
+                <element inactive_on_update="false" label="Logged in Error" sequence="2" value="logged_in_error"/>
+                <element inactive="true" inactive_on_update="true" label="Remediation in Place" sequence="3" value="remediation_in_place"/>
+                <element inactive="true" inactive_on_update="true" label="Resolved with Root Cause Analysis" sequence="4" value="resolved_with_root_cause_analysis"/>
+                <element inactive="true" inactive_on_update="true" label="Root Cause Remediated" sequence="5" value="root_cause_remediated"/>
+            </choice>
+        </element>
+        <element choice="3" label="Data Issue Source System" mandatory="true" max_length="40" name="data_issue_source_system" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Oracle" sequence="0" value="oracle"/>
+                <element inactive_on_update="false" label="SAP" sequence="1" value="sap"/>
+                <element inactive_on_update="false" label="ServiceNow" sequence="2" value="servicenow"/>
+                <element inactive_on_update="false" label="InfoMap" sequence="3" value="infomap"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Test" label="Information Classification" max_length="40" name="information_classification" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Public" sequence="0" value="public"/>
+                <element inactive_on_update="false" label="Internal" sequence="1" value="internal"/>
+                <element inactive_on_update="false" label="Confidential" sequence="2" value="confidential"/>
+                <element inactive_on_update="false" label="Secret" sequence="3" value="secret"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Issue Classification" max_length="40" name="issue_classification" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Significant" sequence="0" value="significant"/>
+                <element inactive_on_update="false" label="Financial" sequence="1" value="financial"/>
+                <element inactive_on_update="false" label="Operational" sequence="2" value="operational"/>
+                <element inactive_on_update="false" label="Regulatory" sequence="3" value="regulatory"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=false" choice="1" label="Issue Impact" max_length="1024" name="issue_impact" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Financial" sequence="0" value="financial"/>
+                <element inactive_on_update="false" label="Operational" sequence="1" value="operational"/>
+                <element inactive_on_update="false" label="Regulatory" sequence="2" value="regulatory"/>
+                <element inactive_on_update="false" label="Customer" sequence="3" value="customer"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Issue Owner" max_length="32" name="issue_owner" reference="sys_user_group" reference_qual="parent=e43426a21b4e511069ab0fa7624bcb56^name!=Remediation Team^name!=Data Culture Triage Team^EQ" reference_qual_condition="parent=e43426a21b4e511069ab0fa7624bcb56^name!=Remediation Team^name!=Data Culture Triage Team^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Known or Emerging Issue" max_length="40" name="known_emerging" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Known" sequence="0" value="known"/>
+                <element inactive_on_update="false" label="Emerging" sequence="1" value="emerging"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Linked Issue" max_length="32" name="linked_issues" reference="x_ster2_data_cas_0_data_cases_register" type="reference" use_dependent_field="true"/>
+        <element label="Issue Linked to Material Risk?" max_length="40" name="material_risk" type="boolean"/>
+        <element choice="1" label="On Hold Reason" max_length="40" name="on_hold_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting case submitter" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Awaiting change" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Awaiting problem" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Awaiting vendor" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Awaiting info" sequence="5" value="5"/>
+            </choice>
+        </element>
+        <element choice="1" label="Resolution Code" max_length="40" name="resolution_code" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Duplicate" sequence="0" value="duplicate"/>
+                <element inactive_on_update="false" label="No Control Weakness Identified" sequence="0" value="0"/>
+                <element inactive="true" inactive_on_update="true" label="Not Data Related" sequence="0" value="not_data_related"/>
+                <element inactive="true" inactive_on_update="true" label="No Control Weakness" sequence="1" value="no_control_weakness"/>
+                <element inactive="true" inactive_on_update="true" label="Remediation Threshold Not Met" sequence="1" value="remediation_threshold_not_met"/>
+                <element inactive_on_update="false" label="Root Cause Remediation Complete" sequence="1" value="root_cause_remediation_complete"/>
+                <element inactive="true" inactive_on_update="true" label="Material Risk Identified" sequence="2" value="material_risk_identified"/>
+                <element inactive_on_update="false" label="With Root Cause Analysis" sequence="2" value="2"/>
+                <element inactive="true" inactive_on_update="true" label="Control Weakness Identified" sequence="3" value="control_weakness_identified"/>
+                <element inactive_on_update="false" label="Without Root Cause Analysis" sequence="3" value="3"/>
+                <element inactive="true" inactive_on_update="true" label="Solution Provided" sequence="4" value="solution_provided"/>
+                <element inactive="true" inactive_on_update="true" label="Workaround Provided" sequence="5" value="workaround_provided"/>
+                <element inactive="true" inactive_on_update="true" label="User Error" sequence="6" value="user_error"/>
+                <element inactive="true" inactive_on_update="true" label="Logged In Error" sequence="7" value="logged_in_error"/>
+            </choice>
+        </element>
+        <element label="Resolution notes" max_length="4000" name="resolution_notes" type="string"/>
+        <element label="Resolved" max_length="40" name="resolved_at" type="glide_date_time"/>
+        <element label="Resolved by" max_length="32" name="resolved_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Source System of Issue" max_length="40" name="source_system_of_issue" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type of Issue" max_length="40" name="subcategory" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Process (Operational/Manual)" sequence="0" value="process_operational_manual"/>
+                <element inactive_on_update="false" label="Skills (Training/Capability)" sequence="1" value="skills_training_capability"/>
+                <element inactive_on_update="false" label="Technology/System" sequence="2" value="technology_system"/>
+            </choice>
+        </element>
+        <element choice="3" default="0" label="Sub-Status" max_length="40" name="sub_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="0"/>
+                <element inactive="true" inactive_on_update="true" label="Reopened" sequence="0" value="7"/>
+                <element inactive_on_update="false" label="Open" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Triage Investigation" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Referred to Remediation Team" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Referred to F&amp;F" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Resolved" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="Closed" sequence="6" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="System where Issue was Identified" max_length="40" name="system_issue_identified" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>

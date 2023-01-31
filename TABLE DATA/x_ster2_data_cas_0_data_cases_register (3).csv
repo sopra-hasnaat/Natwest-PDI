@@ -1,0 +1,537 @@
+"number","action_status","active","activity_due","additional_assignee_list","agile_story","approval","approval_history","approval_set","assigned_to","business_benefits","action_category","work_end","work_start","comments","assignment_group","business_areas","business_outcome","business_term_id_and_name","business_duration","category","close_code","close_notes","closed_at","closed_by","comments_and_work_notes","company","cmdb_ci","contact_type","contract","correlation_id","correlation_display","sys_created_on","sys_created_by","data_issue_source_system","delivery_plan","delivery_task","sys_domain","sys_domain_path","due_date","calendar_duration","task_effective_number","escalation","expected_start","follow_up","group_list","impact","information_classification","issue_classification","description","issue_impact","material_risk","issue_owner","short_description","knowledge","known_emerging","linked_issues","location","made_sla","needs_attention","on_hold_reason","opened_at","opened_by","order","parent","priority","reassignment_count","resolution_code","resolution_notes","resolved_at","resolved_by","sla_due","business_service","service_offering","skills","source_system_of_issue","state","sub_status","system_issue_identified","sys_tags","sys_class_name","time_worked","route_reason","subcategory","universal_request","sys_updated_on","sys_updated_by","sys_mod_count","upon_approval","upon_reject","urgency","user_input","watch_list","work_notes","work_notes_list"
+"DAT0001018","","false","UNKNOWN","","","Not Yet Requested","","","Warren Hacher","","Analysis / Investigation","","","30/08/2022 21:43:47 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:33:27 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:00:46 - System Administrator (Additional comments)
+reopen test
+
+30/08/2022 20:25:18 - System Administrator (Additional comments)
+reopen test
+
+30/08/2022 19:33:01 - System Administrator (Additional comments)
+reopen test
+
+29/08/2022 06:43:39 - System Administrator (Additional comments)
+Reopened for testing
+
+25/08/2022 07:05:36 - System Administrator (Additional comments)
+Reopen for further investigation
+
+","Data Culture Triage Team","","","","0","Data Case","","","20/09/2022 15:24:09","Hasnaat Khan","30/08/2022 21:43:47 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:33:27 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:00:46 - System Administrator (Additional comments)
+reopen test
+
+30/08/2022 20:25:18 - System Administrator (Additional comments)
+reopen test
+
+30/08/2022 19:33:01 - System Administrator (Additional comments)
+reopen test
+
+29/08/2022 06:43:39 - System Administrator (Additional comments)
+Reopened for testing
+
+25/08/2022 07:05:36 - System Administrator (Additional comments)
+Reopen for further investigation
+
+20/08/2022 20:14:33 - Warwick Cooney (Work notes)
+I have assigned this to the Data Culture Triage Team to start investigating
+
+","","","Self-service","","","","20/08/2022 20:03:56","warwick-cooney-grants","InfoMap","","","global","/","24/08/2022 20:13:46","0","DAT0001018","Normal","","","","3 - Low","","","We have discovered that RBS retail customers are currently unable to submit their mortgage application details using the RBS Mortgages App","","false","","RBS retail customers unable to submit mortgage application data in the RBS Mortgages App","false","","","","true","false","","20/08/2022 20:03:56","Warwick Cooney","","","High","24","With Root Cause Analysis","test","05/10/2022 13:59:49","Yvonne Sinclair","UNKNOWN","","","","","Resolved","Open","Choice 3","","Data Cases Register","0","","Technology/System","","04/10/2022 13:59:53","yvonne-sinclair-grants","55","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","20/08/2022 20:14:33 - Warwick Cooney (Work notes)
+I have assigned this to the Data Culture Triage Team to start investigating
+
+",""
+"DAT0001019","","true","UNKNOWN","","","Not Yet Requested","","","Warren Hacher","","Communication to Data Provider","","","20/08/2022 20:50:20 - Warwick Cooney (Additional comments)
+Thanks for raising this issue. We are currently investigating and will revert in due course.
+
+","Internal Audit","","","","0","Data Case","Remediation Threshold Not Met","Remediation Threshold not met","","","20/08/2022 20:50:20 - Warwick Cooney (Work notes)
+Data Triage Team currently investigating
+
+20/08/2022 20:50:20 - Warwick Cooney (Additional comments)
+Thanks for raising this issue. We are currently investigating and will revert in due course.
+
+","","","Self-service","","","","20/08/2022 20:42:36","warwick-cooney-grants","InfoMap","","","global","/","29/08/2022 20:48:57","0","DAT0001019","Normal","","","","3 - Low","","","Users are reporting various issues identified, whereby the Natwest Markets App is not displaying the LSE live share prices data feed.","","false","","Natwest Markets App is not showing LSE live share prices data feed","false","","","","true","false","","20/08/2022 20:42:36","Warwick Cooney","","","Moderate","3","","","","","UNKNOWN","","","","","Resolved","Referred to Remediation Team","","","Data Cases Register","0","","Technology/System","","20/09/2022 15:17:57","has-khan-grants","11","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","20/08/2022 20:50:20 - Warwick Cooney (Work notes)
+Data Triage Team currently investigating
+
+",""
+"DAT0001034","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Duplicate","","","28/08/2022 22:06:06 - System Administrator (Additional comments)
+reopen test
+
+25/08/2022 07:35:59 - System Administrator (Additional comments)
+reopen case test
+
+24/08/2022 15:35:26 - System Administrator (Additional comments)
+reopen case
+
+23/08/2022 21:34:23 - System Administrator (Additional comments)
+test test test
+
+23/08/2022 12:03:32 - System Administrator (Additional comments)
+tes test
+
+23/08/2022 11:52:35 - System Administrator (Additional comments)
+Test knowledge artice attachments
+
+23/08/2022 11:52:10 - System Administrator (Additional comments)
+Test knowledge artice attachments
+
+","Data Culture Triage Team","","","","0","Data Case","","","","","28/08/2022 22:06:06 - System Administrator (Additional comments)
+reopen test
+
+25/08/2022 07:35:59 - System Administrator (Additional comments)
+reopen case test
+
+24/08/2022 15:35:26 - System Administrator (Additional comments)
+reopen case
+
+23/08/2022 21:34:23 - System Administrator (Additional comments)
+test test test
+
+23/08/2022 12:03:32 - System Administrator (Additional comments)
+tes test
+
+23/08/2022 11:52:35 - System Administrator (Additional comments)
+Test knowledge artice attachments
+
+23/08/2022 11:52:10 - System Administrator (Additional comments)
+Test knowledge artice attachments
+
+","","","Self-service","","","","21/08/2022 10:17:15","warwick-cooney-grants","SAP","","","global","/","","0","DAT0001034","Normal","","","","3 - Low","","","Testing Natwest Markets Group App data issues","","false","","Testing Natwest Markets Group App data issues","false","","","","true","false","","21/08/2022 10:17:15","Warwick Cooney","","","Low","1","Remediation Threshold Not Met","Test knowledge artice attachments","","","UNKNOWN","","","","","On Hold","Open","","","Data Cases Register","0","","Process (Operational/Manual)","","23/09/2022 17:18:10","has-khan-grants","23","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001036","","true","UNKNOWN","","","Not Yet Requested","","","","","Analysis / Investigation","","","23/08/2022 05:40:39 - System Administrator (Additional comments)
+Test Knowledge Article creation - Analysis completed. KB article attached
+
+21/08/2022 20:31:47 - Warwick Cooney (Additional comments)
+I am referring this case to the Remediation Team
+
+","Wealth","","","","0","Data Case","","","","System Administrator","23/08/2022 05:40:39 - System Administrator (Additional comments)
+Test Knowledge Article creation - Analysis completed. KB article attached
+
+21/08/2022 20:31:47 - Warwick Cooney (Additional comments)
+I am referring this case to the Remediation Team
+
+","","","Self-service","","","","21/08/2022 20:03:31","warwick-cooney-grants","Oracle","","","global","/","","0","DAT0001036","Normal","","","","3 - Low","","","There are numerous issues reported regards RBS Banking App not displaying customer savings account numbers.","","false","","There are numerous issues reported regards RBS Banking App not displaying customer savings account numbers.","true","","","","true","false","","21/08/2022 20:03:31","Warwick Cooney","","","Low","10","Workaround Provided","Test Knowledge Article creation - Analysis completed. KB article attached","23/08/2022 05:40:30","Warwick Cooney","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","Process (Operational/Manual)","","28/09/2022 16:51:10","frankie.morein","21","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001037","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","Analysis / Investigation","","","23/08/2022 06:41:54 - System Administrator (Additional comments)
+Test Data Case knowledge article attachment
+
+23/08/2022 06:41:39 - System Administrator (Additional comments)
+Test Data Case knowledge article attachment
+
+21/08/2022 21:09:30 - Warwick Cooney (Additional comments)
+Thank you for your update Warwick
+
+21/08/2022 21:01:59 - Warwick Cooney (Additional comments)
+I am referring this case to the Remediation Team for further analysis and investigation.
+
+","","","","","0","Data Case","","","","","23/08/2022 06:41:54 - System Administrator (Additional comments)
+Test Data Case knowledge article attachment
+
+23/08/2022 06:41:39 - System Administrator (Additional comments)
+Test Data Case knowledge article attachment
+
+21/08/2022 21:09:30 - Warwick Cooney (Additional comments)
+Thank you for your update Warwick
+
+21/08/2022 21:01:59 - Warwick Cooney (Additional comments)
+I am referring this case to the Remediation Team for further analysis and investigation.
+
+","","","Self-service","","","","21/08/2022 20:59:32","warwick-cooney-grants","Oracle","","","global","/","31/08/2022 21:01:07","0","DAT0001037","Normal","","","","3 - Low","","","Natwest Consumer Banking app not displaying customer login field","","false","","Natwest Consumer Banking app not displaying customer login field","true","","","","true","false","","21/08/2022 20:59:32","Warwick Cooney","","","High","2","","","","","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","Technology/System","","20/09/2022 15:19:43","has-khan-grants","8","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001042","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Communication to Data Provider","","","","Data Culture Triage Team","","","","0","Data Case","","","","","","","","Self-service","","","","22/08/2022 08:42:30","warwick-cooney-grants","Oracle","","","global","/","","0","DAT0001042","Normal","","","","3 - Low","","","Natwest Markets app data missing from service portal page","","false","","Natwest Markets app data missing from service portal page","false","","","","true","false","Awaiting case submitter","22/08/2022 08:42:30","Warwick Cooney","","","Low","1","","","","","UNKNOWN","","","","","On Hold","Open","","","Data Cases Register","0","","Process (Operational/Manual)","","05/10/2022 11:09:49","warwick-cooney-grants","4","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001059","","false","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Process Fix","","","29/08/2022 06:54:21 - Warwick Cooney (Additional comments)
+Reopen for testing
+
+28/08/2022 12:46:54 - System Administrator (Additional comments)
+Reopen for further analysis
+
+26/08/2022 11:37:18 - System Administrator (Additional comments)
+Reopen case for further investigation
+
+23/08/2022 07:44:19 - System Administrator (Additional comments)
+Test Knowledge article attachment
+
+","Data Culture Triage Team","","","","0","Data Case","","","20/09/2022 15:05:08","Hasnaat Khan","29/08/2022 06:54:21 - Warwick Cooney (Additional comments)
+Reopen for testing
+
+28/08/2022 12:46:54 - System Administrator (Additional comments)
+Reopen for further analysis
+
+26/08/2022 11:37:18 - System Administrator (Additional comments)
+Reopen case for further investigation
+
+23/08/2022 07:44:19 - System Administrator (Additional comments)
+Test Knowledge article attachment
+
+","","","Self-service","","","","22/08/2022 21:17:23","admin","ServiceNow","","","global","/","","0","DAT0001059","Normal","","","","3 - Low","","","Natwest Markets data not displaying in app","","false","","Natwest Markets data not displaying in app","true","","","","true","false","","22/08/2022 21:17:23","System Administrator","","","Low","1","","","","","UNKNOWN","","","","","Resolved","Open","","","Data Cases Register","0","","Process (Operational/Manual)","","23/09/2022 17:18:03","has-khan-grants","9","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001060","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Duplicate","","","28/08/2022 21:42:10 - System Administrator (Additional comments)
+reopen test
+
+25/08/2022 11:07:04 - System Administrator (Additional comments)
+Case closed
+
+23/08/2022 11:25:22 - System Administrator (Additional comments)
+test reopen incident
+
+23/08/2022 11:22:26 - System Administrator (Additional comments)
+Case needs to be reopened - test
+
+","Data Culture Triage Team","","","","0","Data Case","","","","","28/08/2022 21:42:10 - System Administrator (Additional comments)
+reopen test
+
+25/08/2022 11:07:04 - System Administrator (Work notes)
+Case closed
+
+25/08/2022 11:07:04 - System Administrator (Additional comments)
+Case closed
+
+23/08/2022 11:25:22 - System Administrator (Additional comments)
+test reopen incident
+
+23/08/2022 11:22:26 - System Administrator (Additional comments)
+Case needs to be reopened - test
+
+","","","Self-service","","","","22/08/2022 21:21:15","admin","SAP","","","global","/","","0","DAT0001060","Normal","","","","3 - Low","","","RBS Loans app data issues","","false","","RBS Loans app data issues","false","","","","true","false","","22/08/2022 21:21:15","Warwick Cooney","","","High","11","Solution Provided","solution provided","","","UNKNOWN","","","","","On Hold","Open","","","Data Cases Register","0","","Process (Operational/Manual)","","27/09/2022 15:15:18","warwick-cooney-grants","27","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","25/08/2022 11:07:04 - System Administrator (Work notes)
+Case closed
+
+",""
+"DAT0001061","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Insufficient Information","","","30/08/2022 22:12:22 - System Administrator (Additional comments)
+reopen test
+
+28/08/2022 12:52:06 - System Administrator (Additional comments)
+reopened for further investigation
+
+26/08/2022 11:39:19 - System Administrator (Additional comments)
+reopen for analysis
+
+23/08/2022 11:58:37 - System Administrator (Additional comments)
+test test
+
+23/08/2022 11:47:59 - System Administrator (Additional comments)
+Test - Knowledge article generation
+
+23/08/2022 11:47:36 - System Administrator (Additional comments)
+Test - Knowledge article generation
+
+23/08/2022 11:45:27 - System Administrator (Additional comments)
+Resolved - Test Knowledge
+
+23/08/2022 11:42:54 - System Administrator (Additional comments)
+Case is being reopened for further investigation
+
+","Data Culture Triage Team","","","","0","Data Case","","","","","30/08/2022 22:12:22 - System Administrator (Additional comments)
+reopen test
+
+28/08/2022 12:52:06 - System Administrator (Additional comments)
+reopened for further investigation
+
+26/08/2022 11:39:19 - System Administrator (Additional comments)
+reopen for analysis
+
+23/08/2022 11:58:37 - System Administrator (Additional comments)
+test test
+
+23/08/2022 11:47:59 - System Administrator (Additional comments)
+Test - Knowledge article generation
+
+23/08/2022 11:47:36 - System Administrator (Additional comments)
+Test - Knowledge article generation
+
+23/08/2022 11:45:27 - System Administrator (Additional comments)
+Resolved - Test Knowledge
+
+23/08/2022 11:42:54 - System Administrator (Additional comments)
+Case is being reopened for further investigation
+
+","","","Self-service","","","","22/08/2022 21:25:10","admin","SAP","","","global","/","","0","DAT0001061","Normal","","","","3 - Low","","","RBS Loans app data issues","","false","","RBS Loans app data issues","true","","","","true","false","","22/08/2022 21:25:10","System Administrator","","","Low","1","","","","","UNKNOWN","","","","","On Hold","Open","","","Data Cases Register","0","","Skills (Training/Capability)","","23/09/2022 17:18:01","has-khan-grants","19","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001071","","false","UNKNOWN","","","Not Yet Requested","","","Bess Marso","","Communication to Data Provider","","","28/08/2022 06:04:19 - System Administrator (Additional comments)
+Reopening case for investigation
+
+23/08/2022 21:34:58 - System Administrator (Additional comments)
+test test test
+
+","Communications","","","","0","Data Case","","","","","28/08/2022 06:04:19 - System Administrator (Additional comments)
+Reopening case for investigation
+
+23/08/2022 21:34:58 - System Administrator (Additional comments)
+test test test
+
+","","","Self-service","","","","23/08/2022 20:49:48","admin","Oracle","","","global","/","","0","DAT0001071","Normal","","","","3 - Low","","","Natwest markets app missing live data feeds","","false","","Natwest markets app missing live data feeds","true","","","","true","false","","23/08/2022 20:49:48","System Administrator","","","Low","4","","","","","UNKNOWN","","","","","Resolved","Referred to Remediation Team","","","Data Cases Register","0","","Process (Operational/Manual)","","23/09/2022 17:17:54","has-khan-grants","12","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001073","","false","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","Analysis / Investigation","","","29/08/2022 07:38:49 - System Administrator (Additional comments)
+reopen for testing
+
+24/08/2022 06:52:46 - System Administrator (Additional comments)
+test test
+
+","Data Culture Triage Team","","","","0","Data Case","","","20/09/2022 14:50:12","Hasnaat Khan","29/08/2022 07:38:49 - System Administrator (Additional comments)
+reopen for testing
+
+24/08/2022 06:52:46 - System Administrator (Additional comments)
+test test
+
+","","","Self-service","","","","23/08/2022 20:56:39","bess.marso","Oracle","","","global","/","","0","DAT0001073","Normal","","","","3 - Low","","","RBS Banking app issues","","false","","RBS Banking app issues","false","","","","true","false","","23/08/2022 20:56:39","Bess Marso","","","Low","3","User Error","user error","29/08/2022 21:50:00","System Administrator","UNKNOWN","","","","","Resolved","Open","","","Data Cases Register","0","","Skills (Training/Capability)","","23/09/2022 17:17:51","has-khan-grants","17","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001077","","true","UNKNOWN","","","Not Yet Requested","","","Vivian Brzostowski","","Analysis / Investigation","","","29/08/2022 07:37:21 - System Administrator (Additional comments)
+reopen for testing
+
+29/08/2022 06:57:34 - Warwick Cooney (Additional comments)
+reopen for testing
+
+24/08/2022 21:51:57 - System Administrator (Additional comments)
+reopen case
+
+24/08/2022 15:32:21 - System Administrator (Additional comments)
+Reopen case for further investigations
+
+","Legal, Governance and Regulatory Affairs","","","","0","Data Case","","","","","29/08/2022 07:37:21 - System Administrator (Additional comments)
+reopen for testing
+
+29/08/2022 06:57:34 - Warwick Cooney (Additional comments)
+reopen for testing
+
+24/08/2022 21:51:57 - System Administrator (Additional comments)
+reopen case
+
+24/08/2022 15:32:21 - System Administrator (Additional comments)
+Reopen case for further investigations
+
+","","","Self-service","","","","24/08/2022 10:09:47","warwick-cooney-grants","","","","global","/","","0","DAT0001077","Normal","","","","3 - Low","","","Natwest Markets app not displaying data","","false","","Natwest Markets app not displaying data","false","","","","true","false","","24/08/2022 10:09:47","Warwick Cooney","","","Low","4","","","","","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","Process (Operational/Manual)","","28/09/2022 16:27:56","warwick-cooney-grants","20","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001078","","false","UNKNOWN","","","Not Yet Requested","","","Warren Hacher","","Analysis / Investigation","","","26/08/2022 11:57:35 - System Administrator (Additional comments)
+Reopen for further analysis and investigation
+
+","Internal Audit","","","","0","Data Case","","","","","26/08/2022 11:57:35 - System Administrator (Additional comments)
+Reopen for further analysis and investigation
+
+","","","Self-service","","","","24/08/2022 12:15:11","warwick-cooney-grants","","","","global","/","","0","DAT0001078","Normal","","","","3 - Low","","","RBS Mortgages App not providing data feed","","false","","RBS Mortgages App not providing data feed","true","","","","true","false","","24/08/2022 12:15:11","Warwick Cooney","","","Low","6","","","","","UNKNOWN","","","","","Resolved","Referred to Remediation Team","","","Data Cases Register","0","","Process (Operational/Manual)","","23/09/2022 17:17:19","has-khan-grants","18","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001090","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","Analysis / Investigation","","","28/08/2022 13:03:10 - System Administrator (Additional comments)
+reopened for further analysis
+
+27/08/2022 20:55:50 - Barbara Hindley (Additional comments)
+I am resolving this case.
+
+27/08/2022 20:50:46 - Warwick Cooney (Additional comments)
+I am referring this to the Remediation team for further analysis and investigation.
+
+","Remediation Team","","","","0","Data Case","","","28/09/2022 10:41:02","System Administrator","28/08/2022 13:03:10 - System Administrator (Additional comments)
+reopened for further analysis
+
+27/08/2022 20:55:50 - Barbara Hindley (Additional comments)
+I am resolving this case.
+
+27/08/2022 20:50:46 - Warwick Cooney (Additional comments)
+I am referring this to the Remediation team for further analysis and investigation.
+
+26/08/2022 09:37:56 - System Administrator (Work notes)
+test addition of a work note
+
+","","","Phone","","","","26/08/2022 09:33:50","admin","","","","global","/","","0","DAT0001090","Normal","","","","3 - Low","","","new data issue breach case reported","","false","","Data Issue breach","false","","","","true","false","","26/08/2022 09:32:15","System Administrator","","","Low","4","Workaround Provided","Workaround provided to this data case issue.","26/08/2022 09:32:15","Barbara Hindley","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","Process (Operational/Manual)","","28/09/2022 10:41:02","yvonne-sinclair-grants","15","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","26/08/2022 09:37:56 - System Administrator (Work notes)
+test addition of a work note
+
+",""
+"DAT0001091","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","Process Fix","","","28/08/2022 06:06:42 - System Administrator (Additional comments)
+Reopen for further analysis
+
+26/08/2022 09:39:51 - System Administrator (Additional comments)
+Hi, can you please investigate this asap?
+
+","Remediation Team","","","","0","Data Case","","","","System Administrator","28/08/2022 06:06:42 - System Administrator (Additional comments)
+Reopen for further analysis
+
+26/08/2022 09:39:51 - System Administrator (Additional comments)
+Hi, can you please investigate this asap?
+
+","","","Self-service","","","","26/08/2022 09:39:32","admin","","","","global","/","","0","DAT0001091","Normal","","","","3 - Low","","","Data issue detected with customer account","","false","","Data issue submitted via Portal","false","","","","true","false","","26/08/2022 09:39:32","System Administrator","","","Low","3","Control Weakness Identified","Test resolve case","28/09/2022 10:31:50","Warwick Cooney","UNKNOWN","","","","","Submitted","New","","","Data Cases Register","0","","Technology/System","","28/09/2022 10:32:56","warwick-cooney-grants","19","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001094","","false","UNKNOWN","","","Not Yet Requested","","","Bess Marso","","Process Fix","","","29/08/2022 07:38:09 - System Administrator (Additional comments)
+reopen for testing
+
+28/08/2022 21:54:46 - System Administrator (Additional comments)
+reopen test
+
+27/08/2022 06:41:30 - Barbara Hindley (Additional comments)
+Referring to Franchise Team
+
+27/08/2022 06:31:05 - Warwick Cooney (Additional comments)
+I am referring this case to the remediation team.
+
+","Communications","","","","0","Data Case","","","","","29/08/2022 07:38:09 - System Administrator (Additional comments)
+reopen for testing
+
+28/08/2022 21:54:46 - System Administrator (Additional comments)
+reopen test
+
+27/08/2022 06:41:30 - Barbara Hindley (Additional comments)
+Referring to Franchise Team
+
+27/08/2022 06:31:05 - Warwick Cooney (Additional comments)
+I am referring this case to the remediation team.
+
+","","","Self-service","","","","27/08/2022 05:49:09","admin","","","","global","/","","0","DAT0001094","Normal","","","","3 - Low","","","The RBS Mortgage applications app is not displaying customer application details","","false","","The RBS Mortgage applications app is not displaying customer application details","true","","","","true","false","","27/08/2022 05:49:09","System Administrator","","","Low","3","","","","","UNKNOWN","","","","","Resolved","Referred to Remediation Team","","","Data Cases Register","0","","Technology/System","","23/09/2022 17:17:32","has-khan-grants","20","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001097","","true","UNKNOWN","","","Not Yet Requested","","","Bess Marso","","","","","30/08/2022 21:29:02 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:22:23 - System Administrator (Additional comments)
+test reopen
+
+30/08/2022 21:15:46 - System Administrator (Additional comments)
+reopen test
+
+","Communications","","","","0","Data Case","","","","","30/08/2022 21:29:02 - System Administrator (Additional comments)
+test
+
+30/08/2022 21:22:23 - System Administrator (Additional comments)
+test reopen
+
+30/08/2022 21:15:46 - System Administrator (Additional comments)
+reopen test
+
+","","","Self-service","","","","29/08/2022 22:18:50","admin","","","","global","/","","0","DAT0001097","Normal","","","","3 - Low","","","Mortgage app data info missing","","false","","Mortgage app data info missing","false","","","","true","false","","29/08/2022 22:18:50","System Administrator","","","Low","2","","","","","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","28/09/2022 16:16:26","warwick-cooney-grants","12","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001101","","false","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","","","","0","Data Case","","","","","","","","Self-service","","","","29/08/2022 22:48:08","admin","","","","global","/","","0","DAT0001101","Normal","","","","3 - Low","","","test","","false","","test","false","","","","true","false","","29/08/2022 22:48:08","System Administrator","","","Moderate","1","","","","","UNKNOWN","","","","","Resolved","Open","","","Data Cases Register","0","","","","23/09/2022 17:17:40","has-khan-grants","7","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001107","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","","","","0","Data Case","","","20/09/2022 15:39:25","Hasnaat Khan","","","","Self-service","","","","20/09/2022 15:38:40","has-khan-grants","","","","global","/","","0","DAT0001107","Normal","","","","3 - Low","","","","","false","","","false","","","","true","false","","20/09/2022 15:38:26","Hasnaat Khan","","","Low","4","User Error","Finish","20/09/2022 15:42:03","Hasnaat Khan","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","Skills (Training/Capability)","","28/09/2022 10:20:41","has-khan-grants","27","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001108","","true","UNKNOWN","","","Not Yet Requested","","","Bernard Laboy","","","","","","Finance","","","","0","Data Case","","close","28/09/2022 10:20:27","Hasnaat Khan","","","","Self-service","","","","20/09/2022 15:57:36","has-khan-grants","","","","global","/","","0","DAT0001108","Normal","","","","3 - Low","","","","","false","","","false","","","","true","false","","20/09/2022 15:57:33","Hasnaat Khan","","","Low","37","","","28/09/2022 10:20:25","Hasnaat Khan","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","29/09/2022 15:54:27","barbara.hindley","90","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001109","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","Data Culture Triage Team","","","0","Data Case","Remediation Threshold Not Met","closed","","","","","","Self-service","","","","20/09/2022 16:50:45","has-khan-grants","","","","global","/","","0","DAT0001109","Normal","","","","3 - Low","","","","","false","","","false","","","","true","false","","20/09/2022 16:50:42","Hasnaat Khan","","","High","4","","","","Warwick Cooney","UNKNOWN","","","","","Closed","Resolved","","","Data Cases Register","0","","","","27/09/2022 16:41:37","barbara.hindley","19","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001195","","false","UNKNOWN","","","Not Yet Requested","","","Alfonso Griglen","","","","","21/09/2022 15:41:10 - Hasnaat Khan (Additional comments)
+How is this going?
+
+","Remediation Team","Marketing","","","0","Data Case","Non Data Related","","21/09/2022 15:54:54","Hasnaat Khan","21/09/2022 15:41:10 - Hasnaat Khan (Additional comments)
+How is this going?
+
+","","","Self-service","","","","21/09/2022 15:40:28","has-khan-grants","","","","global","/","","0","DAT0001195","Normal","","","","3 - Low","","Significant","Test","","false","","Test","false","","","","true","false","","21/09/2022 15:40:28","Hasnaat Khan","","","Low","2","","","28/09/2022 10:15:12","Hasnaat Khan","UNKNOWN","","","","Choice 2","Submitted","Referred to Remediation Team","Choice 1","","Data Cases Register","0","","","","29/09/2022 15:58:10","barbara.hindley","11","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001374","","true","UNKNOWN","","","Not Yet Requested","","","","","","","","27/09/2022 12:59:34 - Hasnaat Khan (Additional comments)
+is this working??
+
+","Data Culture Triage Team","","","","0","Data Case","Non Data Related","","","","27/09/2022 12:59:34 - Hasnaat Khan (Additional comments)
+is this working??
+
+","","","Self-service","","","","27/09/2022 11:10:59","has-khan-grants","","","","global","/","","0","DAT0001374","Normal","","","","3 - Low","","","Legal name for sole trader is incorrect","","false","","Legal name for sole trader is incorrect","false","","","","true","false","","27/09/2022 11:10:59","Hasnaat Khan","","","","0","","","","","UNKNOWN","","","","","Submitted","Open","","","Data Cases Register","0","","","","27/09/2022 12:59:34","has-khan-grants","1","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001375","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","","","","0","Data Case","Non Data Related","closure","27/09/2022 11:23:23","Warwick Cooney","","","","Self-service","","","","27/09/2022 11:22:03","warwick-cooney-grants","","","","global","/","","0","DAT0001375","Normal","","","","3 - Low","","","Test","","false","","Test","false","","","","true","false","Awaiting case submitter","27/09/2022 11:22:03","Warwick Cooney","","","","4","","","","Hasnaat Khan","UNKNOWN","","","","","On Hold","Triage Investigation","","","Data Cases Register","0","","","","29/09/2022 12:20:03","warwick-cooney-grants","9","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001376","","false","UNKNOWN","","","Not Yet Requested","","","Frankie Morein","","","","","27/09/2022 14:43:08 - Warwick Cooney (Additional comments)
+This case is still under review
+
+27/09/2022 14:29:27 - Yvonne Sinclair (Additional comments)
+I would like an update on this case please
+
+","Wealth","","Choice 3","Choice 2","0","Data Case","Non Data Related","","","Yvonne Sinclair","27/09/2022 14:52:26 - Yvonne Sinclair (Work notes)
+resolved the case but assigned to remediation team
+
+27/09/2022 14:43:08 - Warwick Cooney (Additional comments)
+This case is still under review
+
+27/09/2022 14:29:27 - Yvonne Sinclair (Additional comments)
+I would like an update on this case please
+
+","","","Self-service","","","","27/09/2022 11:49:55","yvonne-sinclair-grants","","","","global","/","","0","DAT0001376","Normal","","","","3 - Low","","Financial","Missing product information from system R","Financial","false","","Missing Product Information","false","Known","","","true","false","","27/09/2022 11:49:55","Yvonne Sinclair","","","","3","With Root Cause Analysis","RCA carried out","27/09/2022 14:51:00","Barbara Hindley","UNKNOWN","","","","Choice 2","In Progress","Referred to F&F","Choice 3","","Data Cases Register","0","","Process (Operational/Manual)","","28/09/2022 10:19:59","has-khan-grants","8","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","27/09/2022 14:52:26 - Yvonne Sinclair (Work notes)
+resolved the case but assigned to remediation team
+
+",""
+"DAT0001377","","true","UNKNOWN","","","Not Yet Requested","","","Bernard Laboy","","","","","","Finance","","","","0","Data Case","Non Data Related","closed","27/09/2022 16:10:29","Warwick Cooney","","","","Self-service","","","","27/09/2022 12:49:44","has-khan-grants","","","","global","/","","0","DAT0001377","Normal","","","","3 - Low","","","test","","false","","test","false","","","","true","false","","27/09/2022 12:49:44","Hasnaat Khan","","","","2","With Root Cause Analysis","testing","27/09/2022 16:09:37","Warwick Cooney","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","28/09/2022 11:50:59","warwick-cooney-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001379","","false","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","27/09/2022 15:40:58 - Hasnaat Khan (Additional comments)
+test
+
+","Data Culture Triage Team","","","","0","Data Case","Non Data Related","Close ","27/09/2022 15:37:33","Hasnaat Khan","27/09/2022 15:40:58 - Hasnaat Khan (Additional comments)
+test
+
+","","","Self-service","","","","27/09/2022 15:26:38","has-khan-grants","","","","global","/","","0","DAT0001379","Normal","","","","3 - Low","","","","","false","","","false","","","","true","false","","27/09/2022 15:25:29","Hasnaat Khan","","","","1","","","27/09/2022 15:25:38","Hasnaat Khan","UNKNOWN","","","","","Closed","Open","","","Data Cases Register","0","","","","27/09/2022 15:40:58","has-khan-grants","4","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001381","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","Finance, Communications","","","0","Data Case","Non Data Related","","27/09/2022 16:40:32","Warwick Cooney","","","","Self-service","","","","27/09/2022 16:34:50","yvonne-sinclair-grants","","","","global","/","","0","DAT0001381","Normal","","","","3 - Low","","","System T legal form has not been kept  upto date. Invalid field within form","","false","","Legal form not maintained as invalid field","false","Known","","","true","false","","27/09/2022 16:34:50","Yvonne Sinclair","","","","2","","","27/09/2022 16:40:05","Hasnaat Khan","UNKNOWN","","","","","On Hold","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 10:11:55","has-khan-grants","6","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001388","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","28/09/2022 10:02:51 - Warwick Cooney (Additional comments)
+Can you please send me a screen shot?
+
+","Data Culture Triage Team","Services","","","0","Data Case","Non Data Related","","","","28/09/2022 10:02:51 - Warwick Cooney (Additional comments)
+Can you please send me a screen shot?
+
+","","","Self-service","","","","28/09/2022 09:43:05","yvonne-sinclair-grants","","","","global","/","","0","DAT0001388","Normal","","","","3 - Low","","","Cin is being picked up from wrong data tables in system X","","false","","Cin Cross referencing from wrong data tables","false","","","","true","false","Awaiting vendor","28/09/2022 09:43:05","Yvonne Sinclair","","","","1","","","","","UNKNOWN","","","","","On Hold","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 12:07:00","has-khan-grants","16","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001390","","false","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","","","","0","Data Case","Non Data Related","","28/09/2022 10:12:31","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:43:45","yvonne-sinclair-grants","","","","global","/","","0","DAT0001390","Normal","","","","3 - Low","","","Legal name for sole trader is show as incorrect on system Y which is feeding other systems","","false","","Legal name for sole trader is incorrect","false","","","","true","false","","28/09/2022 09:43:45","Yvonne Sinclair","","","","1","Root Cause Remediation Complete","Investigation completed","28/09/2022 10:12:12","Warwick Cooney","UNKNOWN","","","","","Resolved","Open","","","Data Cases Register","0","","","","28/09/2022 10:12:31","warwick-cooney-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001393","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","","","","0","Data Case","Non Data Related","","28/09/2022 10:24:36","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:44:38","yvonne-sinclair-grants","","","","global","/","","0","DAT0001393","Normal","","","","3 - Low","","","The golden source  for customer segment is being taken from system A","","false","","Incorrect golden source for customer segment","false","","","","true","false","","28/09/2022 09:44:38","Yvonne Sinclair","","","","2","","","","","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 10:24:36","warwick-cooney-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001394","","true","UNKNOWN","","","Not Yet Requested","","","Andrew Och","","","","","28/09/2022 16:32:30 - Yvonne Sinclair (Additional comments)
+can I have an update
+
+","Commercial Banking","","","","0","Data Case","Non Data Related","","","","28/09/2022 16:32:30 - Yvonne Sinclair (Additional comments)
+can I have an update
+
+","","","Self-service","","","","28/09/2022 09:45:15","yvonne-sinclair-grants","","","","global","/","","0","DAT0001394","Normal","","","","3 - Low","","","Duplicate customer Cins showing in main support system Q","","false","","Duplicate CINs ( Customer Identification Numbers)","false","","","","true","false","","28/09/2022 09:45:15","Yvonne Sinclair","","","","2","","","","","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","28/09/2022 16:32:30","yvonne-sinclair-grants","4","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001396","","true","UNKNOWN","","","Not Yet Requested","","","Bernard Laboy","","","","","","Finance","","","","0","Data Case","Non Data Related","","28/09/2022 10:46:16","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:45:49","yvonne-sinclair-grants","","","","global","/","","0","DAT0001396","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","","false","","Duplicate rules within a  Template","false","","","","true","false","","28/09/2022 09:45:49","Yvonne Sinclair","","","","3","Root Cause Remediation Complete","resolved","28/09/2022 10:45:43","Warwick Cooney","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","28/09/2022 10:46:35","warwick-cooney-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001397","","true","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","28/09/2022 11:32:09 - Warwick Cooney (Additional comments)
+I am working on your case
+
+","Remediation Team","Marketing","Choice 1","","0","Data Case","Logged in Error","closed","28/09/2022 11:46:29","Barbara Hindley","28/09/2022 11:32:09 - Warwick Cooney (Additional comments)
+I am working on your case
+
+","","","Self-service","","","","28/09/2022 09:46:37","yvonne-sinclair-grants","","","","global","/","","0","DAT0001397","Normal","","","","3 - Low","","Significant","Marketing correspondence has been issued from system without of date benefits","Regulatory","false","","Out of Date marketing correspondence","false","Emerging","","","true","false","Awaiting change","28/09/2022 09:46:37","Yvonne Sinclair","","","Moderate","2","With Root Cause Analysis","comments","28/09/2022 11:45:20","Barbara Hindley","UNKNOWN","","","","","Reopened","Triage Investigation","","","Data Cases Register","0","","Process (Operational/Manual)","","28/09/2022 11:47:23","barbara.hindley","13","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001398","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","","","","0","Data Case","Non Data Related","","28/09/2022 10:38:50","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:47:58","yvonne-sinclair-grants","","","","global","/","","0","DAT0001398","Normal","","","","3 - Low","","","System T legal form has not been kept  upto date. Invalid field within form","","false","","Legal form not maintained as invalid field","false","","","","true","false","","28/09/2022 09:47:58","Yvonne Sinclair","","","","3","","","","","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 10:38:50","warwick-cooney-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001399","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","Natwest Markets NV","","","0","Data Case","Non Data Related","","28/09/2022 10:22:42","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:48:44","yvonne-sinclair-grants","","","","global","/","","0","DAT0001399","Normal","","","","3 - Low","Internal","","Missing product information from system R","","false","","Missing Product Information","false","","","","true","false","","28/09/2022 09:48:44","Yvonne Sinclair","","","","2","No Control Weakness Identified","test","28/09/2022 10:35:34","Warwick Cooney","UNKNOWN","","","","","Resolved","Resolved","","","Data Cases Register","0","","","","28/09/2022 10:35:39","warwick-cooney-grants","6","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001400","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","","","","0","Data Case","Non Data Related","","28/09/2022 10:39:37","Warwick Cooney","","","","Self-service","","","","28/09/2022 09:49:17","yvonne-sinclair-grants","","","","global","/","","0","DAT0001400","Normal","","","","3 - Low","","","Duplicate customer Bins showing in main support system J","","false","","Duplicate BINs ( Business Identification Numbers)","false","","","","true","false","","28/09/2022 09:49:17","Yvonne Sinclair","","","","2","","","","","UNKNOWN","","","","","Resolved","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 10:39:37","warwick-cooney-grants","3","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001409","","true","UNKNOWN","","","Not Yet Requested","","","Alfonso Griglen","","","","","28/09/2022 13:43:04 - Warwick Cooney (Additional comments)
+update in here
+
+","Remediation Team","Finance","","","0","Data Case","Non Data Related","closed","28/09/2022 13:48:12","Barbara Hindley","28/09/2022 13:43:04 - Warwick Cooney (Additional comments)
+update in here
+
+","","","Self-service","","","","28/09/2022 13:35:40","yvonne-sinclair-grants","","","","global","/","","0","DAT0001409","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","Financial","false","","Duplicate rules within a  Template","false","","","","true","false","","28/09/2022 13:35:40","Yvonne Sinclair","","","","2","Root Cause Remediation Complete","resolved case","28/09/2022 13:48:03","Barbara Hindley","UNKNOWN","","","","","Reopened","Triage Investigation","","","Data Cases Register","0","","","","29/09/2022 15:57:48","barbara.hindley","9","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001410","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","Data Culture Triage Team","","","0","Data Case","Non Data Related","","","","","","","Self-service","","","","28/09/2022 13:49:55","warwick-cooney-grants","","","","global","/","","0","DAT0001410","Normal","","","","3 - Low","","","test","","false","","test","false","","","","true","false","Awaiting case submitter","28/09/2022 13:49:00","Warwick Cooney","","","","1","","","","","UNKNOWN","","","","","On Hold","Triage Investigation","","","Data Cases Register","0","","","","28/09/2022 16:15:48","warwick-cooney-grants","2","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001411","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","Finance","","","0","Data Case","Non Data Related","","","","","","","Self-service","","","","28/09/2022 13:51:43","yvonne-sinclair-grants","","","","global","/","","0","DAT0001411","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","","false","","Duplicate rules within a  Template","false","","","","true","false","","28/09/2022 13:51:43","Yvonne Sinclair","","","","0","","","","","UNKNOWN","","","","","Submitted","New","","","Data Cases Register","0","","","","05/10/2022 11:29:26","yvonne-sinclair-grants","2","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001414","","true","UNKNOWN","","","Not Yet Requested","","","Alejandra Prenatt","","","","","","Remediation Team","Finance","","","0","Data Case","Non Data Related","","","","","","","Self-service","","","","28/09/2022 16:27:21","has-khan-grants","","","","global","/","","0","DAT0001414","Normal","","","","3 - Low","","","test","","false","","Test","false","","","","true","false","","28/09/2022 16:27:21","Hasnaat Khan","","","","1","","","","","UNKNOWN","","","","","In Progress","Referred to Remediation Team","","","Data Cases Register","0","","","","29/09/2022 15:57:30","barbara.hindley","2","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001415","","true","UNKNOWN","","","Not Yet Requested","","","Bernard Laboy","","","","","","Finance","Services","","","0","Data Case","Non Data Related","closed","28/09/2022 16:43:06","Warwick Cooney","","","","Self-service","","","","28/09/2022 16:33:10","yvonne-sinclair-grants","","","","global","/","","0","DAT0001415","Normal","","","","3 - Low","","","Cin is being picked up from wrong data tables in system X","","false","","Cin Cross referencing from wrong data tables","false","","","","true","false","Awaiting case submitter","28/09/2022 16:33:10","Yvonne Sinclair","","","Low","2","With Root Cause Analysis","resolved","28/09/2022 16:42:41","Warwick Cooney","UNKNOWN","","","","","Reopened","Triage Investigation","","","Data Cases Register","0","","","","29/09/2022 12:22:33","warwick-cooney-grants","9","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001417","","true","UNKNOWN","","","Not Yet Requested","","","Yvonne Sinclair","","","","","","Data Culture Triage Team","Commercial Banking","","","0","Data Case","Non Data Related","","","","","","","Self-service","","","","28/09/2022 16:38:20","has-khan-grants","","","","global","/","","0","DAT0001417","Normal","","","","3 - Low","","","test","","false","","Test","false","","Testing Natwest Markets Group App data issues","","true","false","","28/09/2022 16:38:20","Hasnaat Khan","","","Low","0","","","","","UNKNOWN","","","","","In Progress","Triage Investigation","","","Data Cases Register","0","","","","06/10/2022 16:27:04","yvonne-sinclair-grants","5","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001418","","true","UNKNOWN","","","Not Yet Requested","","","","","","","","","Wealth","Finance","","","0","Data Case","Non Data Related","closed","29/09/2022 12:17:17","Barbara Hindley","29/09/2022 12:21:09 - Warwick Cooney (Work notes)
+I need to work on this again
+
+29/09/2022 12:09:04 - Warwick Cooney (Work notes)
+I am working on this case
+
+","","","Self-service","","","","29/09/2022 11:58:29","yvonne-sinclair-grants","","","","global","/","","0","DAT0001418","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","","false","","Duplicate rules within a  Template","false","","Test","","true","false","Awaiting case submitter","29/09/2022 11:58:29","Yvonne Sinclair","","","High","2","Without Root Cause Analysis","resolved but needs RCA","29/09/2022 12:16:45","Barbara Hindley","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","05/10/2022 11:26:40","barbara.hindley","12","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","29/09/2022 12:21:09 - Warwick Cooney (Work notes)
+I need to work on this again
+
+29/09/2022 12:09:04 - Warwick Cooney (Work notes)
+I am working on this case
+
+",""
+"DAT0001419","","true","UNKNOWN","","","Not Yet Requested","","","Bernard Laboy","","","","","29/09/2022 17:14:05 - Warwick Cooney (Additional comments)
+I am working on this case
+
+29/09/2022 17:09:16 - Yvonne Sinclair (Additional comments)
+add a message in here
+
+","Finance","Finance, Marketing","","Choice 1","0","Data Case","Remediation Threshold Not Met","closed","29/09/2022 17:19:33","Barbara Hindley","29/09/2022 17:14:05 - Warwick Cooney (Additional comments)
+I am working on this case
+
+29/09/2022 17:09:16 - Yvonne Sinclair (Additional comments)
+add a message in here
+
+","","","Self-service","","","","29/09/2022 17:08:57","yvonne-sinclair-grants","","","","global","/","","0","DAT0001419","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","","false","","Duplicate rules within a  Template","false","Known","Duplicate rules within a  Template","","true","false","Awaiting case submitter","29/09/2022 17:08:57","Yvonne Sinclair","","","","2","Root Cause Remediation Complete","resolved","29/09/2022 17:19:14","Barbara Hindley","UNKNOWN","","","","","In Progress","Referred to F&F","Choice 1","","Data Cases Register","0","","","","29/09/2022 17:20:28","barbara.hindley","10","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001440","","true","UNKNOWN","","","Not Yet Requested","","","","","","","","05/10/2022 11:19:53 - Warwick Cooney (Additional comments)
+Thank you for sending your screen shot
+
+","Finance","Commercial Banking","","Choice 1","0","Data Case","Non Data Related","closed","05/10/2022 11:23:43","Barbara Hindley","05/10/2022 11:19:53 - Warwick Cooney (Additional comments)
+Thank you for sending your screen shot
+
+05/10/2022 11:19:39 - Warwick Cooney (Work notes)
+I need some help with this case
+
+","","","Self-service","","","","05/10/2022 11:07:08","yvonne-sinclair-grants","","","","global","/","","0","DAT0001440","Normal","","","","3 - Low","","","Duplicate customer Bins showing in main support system J","Operational","false","","Duplicate BINs ( Business Identification Numbers)","false","Known","Cin Cross referencing from wrong data tables","","true","false","","05/10/2022 11:07:08","Yvonne Sinclair","","","Moderate","2","No Control Weakness Identified","resolved","05/10/2022 11:23:25","Barbara Hindley","UNKNOWN","","","","","In Progress","Referred to F&F","","","Data Cases Register","0","","","","05/10/2022 11:25:32","barbara.hindley","11","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","05/10/2022 11:19:39 - Warwick Cooney (Work notes)
+I need some help with this case
+
+",""
+"DAT0001444","","true","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","06/10/2022 16:47:33 - Warwick Cooney (Additional comments)
+I am working on this case
+
+06/10/2022 16:40:16 - Yvonne Sinclair (Additional comments)
+add a comment
+
+","Remediation Team","Services, Communications","","","0","Data Case","Non Data Related","closed","06/10/2022 16:49:50","Barbara Hindley","06/10/2022 16:47:33 - Warwick Cooney (Additional comments)
+I am working on this case
+
+06/10/2022 16:40:16 - Yvonne Sinclair (Additional comments)
+add a comment
+
+","","","Self-service","","","","06/10/2022 16:39:59","yvonne-sinclair-grants","","","","global","/","","0","DAT0001444","Normal","","","","3 - Low","","","Cin is being picked up from wrong data tables in system X","Financial","false","","Cin Cross referencing from wrong data tables","false","","Duplicate rules within a  Template","","true","false","Awaiting case submitter","06/10/2022 16:39:59","Yvonne Sinclair","","","","1","With Root Cause Analysis","resolved","06/10/2022 16:49:30","Barbara Hindley","UNKNOWN","","","","","Reopened","Triage Investigation","","","Data Cases Register","0","","","","06/10/2022 16:50:45","barbara.hindley","10","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001445","","true","UNKNOWN","","","Not Yet Requested","","","Warwick Cooney","","","","","","Data Culture Triage Team","Legal, Governance and Regulatory Affairs","","","0","Data Case","Non Data Related","","","","","","","Self-service","","","","17/10/2022 10:05:46","yvonne-sinclair-grants","","","","global","/","","0","DAT0001445","Normal","","","","3 - Low","","","System T legal form has not been kept  upto date. Invalid field within form","","false","","Legal form not maintained as invalid field","false","","","","true","false","","17/10/2022 10:05:46","Yvonne Sinclair","","","","0","","","","","UNKNOWN","","","","","In Progress","Triage Investigation","","","Data Cases Register","0","","","","17/10/2022 10:10:52","warwick-cooney-grants","2","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001446","","false","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","19/10/2022 08:53:44 - Warwick Cooney (Additional comments)
+I am reviewing your case
+
+","Remediation Team","Finance","","Choice 1","0","Data Case","Remediation Threshold Not Met","closed","19/10/2022 08:57:02","Barbara Hindley","19/10/2022 08:53:44 - Warwick Cooney (Additional comments)
+I am reviewing your case
+
+","","","Self-service","","","","19/10/2022 08:45:08","yvonne-sinclair-grants","","","","global","/","","0","DAT0001446","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","Financial","false","","Duplicate rules within a  Template","false","","Duplicate rules within a  Template","","true","false","Awaiting case submitter","19/10/2022 08:45:08","Yvonne Sinclair","","","Moderate","1","Root Cause Remediation Complete","this is now resolved","19/10/2022 08:56:39","Barbara Hindley","UNKNOWN","","","","","Closed","Closed","","","Data Cases Register","0","","","","19/10/2022 08:58:30","barbara.hindley","10","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""
+"DAT0001448","","true","UNKNOWN","","","Not Yet Requested","","","Barbara Hindley","","","","","","Remediation Team","Finance, Communications","","","0","Data Case","Non Data Related","closed","19/10/2022 11:47:07","Barbara Hindley","","","","Self-service","","","","19/10/2022 11:39:12","yvonne-sinclair-grants","","","","global","/","","0","DAT0001448","Normal","","","","3 - Low","","","Rules within a template provided incorrect output due to duplication","Financial","false","","Duplicate rules within a  Template","false","","Cin Cross referencing from wrong data tables","","true","false","","19/10/2022 11:39:12","Yvonne Sinclair","","","Low","1","Root Cause Remediation Complete","resolved","19/10/2022 11:46:50","Barbara Hindley","UNKNOWN","","","","","Reopened","Triage Investigation","","","Data Cases Register","0","","","","19/10/2022 11:47:35","barbara.hindley","6","Proceed to Next Task","Cancel all future Tasks","3 - Low","","","",""

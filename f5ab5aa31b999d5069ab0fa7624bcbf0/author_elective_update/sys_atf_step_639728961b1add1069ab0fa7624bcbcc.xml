@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'Data Cases Register' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:54:55</sys_created_on>
+        <sys_id>639728961b1add1069ab0fa7624bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_atf_step_639728961b1add1069ab0fa7624bcbcc</sys_update_name>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:54:55</sys_updated_on>
+        <table>x_ster2_data_cas_0_data_cases_register</table>
+        <test display_value="Data Register">3187a4961b1add1069ab0fa7624bcb5b</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=639728961b1add1069ab0fa7624bcbcc"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>639728961b1add1069ab0fa7624bcbcc</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:54:55</sys_created_on>
+        <sys_id>6f9728961b1add1069ab0fa7624bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:54:55</sys_updated_on>
+        <value>x_ster2_data_cas_0_data_cases_register</value>
+        <variable display_value="Table">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>639728961b1add1069ab0fa7624bcbcc</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:54:55</sys_created_on>
+        <sys_id>ab9728961b1add1069ab0fa7624bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:54:55</sys_updated_on>
+        <value/>
+        <variable display_value="View">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>639728961b1add1069ab0fa7624bcbcc</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:54:55</sys_created_on>
+        <sys_id>e79728961b1add1069ab0fa7624bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:54:55</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=639728961b1add1069ab0fa7624bcbcc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</application>
+        <file_path/>
+        <instance_id>97e5de13dbb0d950f492c59705961937</instance_id>
+        <instance_name>soprasteriagrantspov</instance_name>
+        <name>sys_atf_step_639728961b1add1069ab0fa7624bcbcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Data Cases Register' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-10-04 14:54:55</sys_created_on><sys_id>639728961b1add1069ab0fa7624bcbcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package><sys_policy/><sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope><sys_update_name>sys_atf_step_639728961b1add1069ab0fa7624bcbcc</sys_update_name><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-10-04 14:54:55</sys_updated_on><table>x_ster2_data_cas_0_data_cases_register</table><test display_value="Data Register">3187a4961b1add1069ab0fa7624bcb5b</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=639728961b1add1069ab0fa7624bcbcc"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>639728961b1add1069ab0fa7624bcbcc</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-10-04 14:54:55</sys_created_on><sys_id>6f9728961b1add1069ab0fa7624bcbcd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-10-04 14:54:55</sys_updated_on><value>x_ster2_data_cas_0_data_cases_register</value><variable display_value="Table">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>639728961b1add1069ab0fa7624bcbcc</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-10-04 14:54:55</sys_created_on><sys_id>ab9728961b1add1069ab0fa7624bcbcd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-10-04 14:54:55</sys_updated_on><value/><variable display_value="View">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>639728961b1add1069ab0fa7624bcbcc</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>warwick-cooney-grants</sys_created_by><sys_created_on>2022-10-04 14:54:55</sys_created_on><sys_id>e79728961b1add1069ab0fa7624bcbcd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>warwick-cooney-grants</sys_updated_by><sys_updated_on>2022-10-04 14:54:55</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=639728961b1add1069ab0fa7624bcbcc"/></record_update>]]></payload>
+        <payload_hash>424721544</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>39ab5aa31b999d5069ab0fa7624bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:54:55</sys_created_on>
+        <sys_id>a39728961b1add1069ab0fa7624bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a37e1ffa0000001</sys_recorded_at>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:54:55</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>eb972896b71add105a89886c359d35cf</update_guid>
+        <update_guid_history>eb972896b71add105a89886c359d35cf:424721544</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-10-04 14:55:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>15f904c833ad4475875137bd8be8b601</sys_id>
+        <sys_metadata>639728961b1add1069ab0fa7624bcbcc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope_delete display_value="">150838f520034dce83b33730cc1125c4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_639728961b1add1069ab0fa7624bcbcc</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_639728961b1add1069ab0fa7624bcbcc">a39728961b1add1069ab0fa7624bcbd0</sys_update_version>
+        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 14:55:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

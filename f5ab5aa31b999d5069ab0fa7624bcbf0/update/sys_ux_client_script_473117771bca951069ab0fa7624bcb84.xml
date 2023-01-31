@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">fbbd6dbf1a95dd50ec8ffe2402df5e68</macroponent>
+        <name>data_visualization_1_title</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+    var roles = api.context.session.user.roles;
+    var triageResult = roles.filter(role => role == "x_ster2_data_cas_0.data_culture_triage_team_user");
+    var resultString = (triageResult.length > 0 ? 'Data Culture Triage Team' : "Remediation Team");
+
+    return 'Open Issues Assigned to ' + resultString;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>warwick-cooney-grants</sys_created_by>
+        <sys_created_on>2022-09-27 08:51:10</sys_created_on>
+        <sys_id>473117771bca951069ab0fa7624bcb84</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>data_visualization_1_title</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_ux_client_script_473117771bca951069ab0fa7624bcb84</sys_update_name>
+        <sys_updated_by>has-khan-grants</sys_updated_by>
+        <sys_updated_on>2022-09-28 08:50:03</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

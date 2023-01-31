@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Data Cases Register - Open Cases by Assignment Group">cdaf7ae187e19990eab640c80cbb351e</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>yvonne-sinclair-grants</sys_created_by>
+        <sys_created_on>2022-10-04 08:55:54</sys_created_on>
+        <sys_id>607517061bd2dd1069ab0fa7624bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdaf7ae187e19990eab640c80cbb351e</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sys_report_users_groups_607517061bd2dd1069ab0fa7624bcbb4</sys_update_name>
+        <sys_updated_by>yvonne-sinclair-grants</sys_updated_by>
+        <sys_updated_on>2022-10-04 08:55:54</sys_updated_on>
+        <user_id display_value="Yvonne Sinclair">184a1b6187659990eab640c80cbb3506</user_id>
+    </sys_report_users_groups>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-20 18:42:36</sys_created_on>
+        <sys_id>b72c217f1b95dd5069ab0fa7624bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5f2ced3f6295dd50a03295ee96147a51.snc_internal</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_security_acl display_value="5f2ced3f6295dd50a03295ee96147a51">db2ced3f1195dd5089fd3e0e6b7bcc51</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b72c217f1b95dd5069ab0fa7624bcb21</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-20 18:42:36</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>8d2c6d3f1b95dd5069ab0fa7624bcb18</transaction_id>
+    </sys_security_acl_role>
+</record_update>
