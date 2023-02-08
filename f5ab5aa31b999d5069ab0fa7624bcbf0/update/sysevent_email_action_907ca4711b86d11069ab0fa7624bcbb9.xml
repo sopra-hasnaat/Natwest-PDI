@@ -48,7 +48,7 @@
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>opened_by</recipient_fields>
+        <recipient_fields>opened_by,opened_by.email</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -63,15 +63,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>907ca4711b86d11069ab0fa7624bcbb9</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Data Issue Created (Opened By User)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
         <sys_update_name>sysevent_email_action_907ca4711b86d11069ab0fa7624bcbb9</sys_update_name>
-        <sys_updated_by>has-khan-grants</sys_updated_by>
-        <sys_updated_on>2022-10-21 09:16:20</sys_updated_on>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-02-01 09:25:42</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

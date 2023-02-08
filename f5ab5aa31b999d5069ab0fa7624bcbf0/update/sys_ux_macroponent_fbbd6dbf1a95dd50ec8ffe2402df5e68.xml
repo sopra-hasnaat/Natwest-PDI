@@ -234,7 +234,7 @@
                                 "type" : "TRANSLATION_LITERAL",
                                 "value" : {
                                   "code" : null,
-                                  "message" : "Task",
+                                  "message" : "Data Cases Register",
                                   "comment" : ""
                                 }
                               },
@@ -248,7 +248,7 @@
                               },
                               "filterQuery" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORbusiness_areasDYNAMICd6435e965f510100a9ad2572f2b47744^state=0^ORstate=1^ORstate=5"
+                                "value" : "assignment_group=6d0474281b3c25502eda6357b04bcbce"
                               },
                               "reportSourceSysId" : {
                                 "type" : "JSON_LITERAL",
@@ -256,7 +256,7 @@
                               },
                               "id" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "dGFibGV0YXNrMTYwNDYwNjczMTc4NQ=="
+                                "value" : "dGFibGV4X3N0ZXIyX2RhdGFfY2FzXzBfZGF0YV9jYXNlc19yZWdpc3RlcjE2NzUxODc5NjcwNTI="
                               }
                             }
                           } ]
@@ -292,11 +292,11 @@
                             "container" : {
                               "dataSource" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "dGFibGV0YXNrMTYwNDYwNjczMTc4NQ=="
+                                "value" : "dGFibGV4X3N0ZXIyX2RhdGFfY2FzXzBfZGF0YV9jYXNlc19yZWdpc3RlcjE2NzUxODc5NjcwNTI="
                               },
                               "id" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "dGFza0NPVU5UbnVsbG51bGwxNjM5NDg4MDUzNzE3NTc3"
+                                "value" : "ZEdGaWJHVjRYM04wWlhJeVgyUmhkR0ZmWTJGelh6QmZaR0YwWVY5allYTmxjMTl5WldkcGMzUmxjakUyTnpVeE9EYzVOamN3TlRJPTE2NzUxODc5NzM4Mzg="
                               },
                               "aggregateFunction" : {
                                 "type" : "JSON_LITERAL",
@@ -1847,7 +1847,7 @@
                               },
                               "filterQuery" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "active=true^assignment_group=27c372af1bd99d5069ab0fa7624bcb9b"
+                                "value" : "active=true^state=0^ORstate=1^ORstate=5"
                               },
                               "reportSourceSysId" : {
                                 "type" : "JSON_LITERAL",
@@ -3363,7 +3363,7 @@
                     },
                     "hideMenuButton" : {
                       "type" : "JSON_LITERAL",
-                      "value" : false
+                      "value" : true
                     },
                     "hideOptionToSaveAs" : {
                       "type" : "JSON_LITERAL",
@@ -4788,13 +4788,13 @@
         <sys_created_by>warwick-cooney-grants</sys_created_by>
         <sys_created_on>2022-08-20 18:49:26</sys_created_on>
         <sys_id>fbbd6dbf1a95dd50ec8ffe2402df5e68</sys_id>
-        <sys_mod_count>257</sys_mod_count>
+        <sys_mod_count>260</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
         <sys_update_name>sys_ux_macroponent_fbbd6dbf1a95dd50ec8ffe2402df5e68</sys_update_name>
-        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
-        <sys_updated_on>2022-10-04 14:48:55</sys_updated_on>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-02-08 16:08:44</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
