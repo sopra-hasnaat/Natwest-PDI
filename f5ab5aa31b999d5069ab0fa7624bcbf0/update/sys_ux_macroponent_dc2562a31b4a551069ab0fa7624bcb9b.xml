@@ -1079,7 +1079,7 @@
                               },
                               "filterQuery" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "active=true^priority=2^assignment_group=66f8a8bd1b46d11069ab0fa7624bcba5"
+                                "value" : "active=true^priority=2^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744"
                               },
                               "reportSourceSysId" : {
                                 "type" : "JSON_LITERAL",
@@ -1101,11 +1101,11 @@
                           "value" : true
                         },
                         "title" : {
-                          "type" : "TRANSLATION_LITERAL",
-                          "value" : {
-                            "code" : null,
-                            "message" : "Active High Priority Issues",
-                            "comment" : ""
+                          "type" : "CLIENT_TRANSFORM_SCRIPT",
+                          "script" : {
+                            "apiVersion" : "2.0.0",
+                            "inlineScript" : null,
+                            "scriptSysId" : "d623e7211bc961502eda6357b04bcb5d"
                           }
                         },
                         "showBorder" : {
@@ -4511,9 +4511,6 @@
         <name>Home</name>
         <props>[ ]</props>
         <required_translations>[ {
-  "message" : "Active High Priority Issues",
-  "comment" : ""
-}, {
   "message" : "Active Issues Assigned to Me",
   "comment" : ""
 }, {
@@ -4547,13 +4544,13 @@
         <sys_created_by>has-khan-grants</sys_created_by>
         <sys_created_on>2022-09-26 10:59:59</sys_created_on>
         <sys_id>dc2562a31b4a551069ab0fa7624bcb9b</sys_id>
-        <sys_mod_count>41</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
         <sys_update_name>sys_ux_macroponent_dc2562a31b4a551069ab0fa7624bcb9b</sys_update_name>
-        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
-        <sys_updated_on>2022-10-04 14:49:51</sys_updated_on>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-02-16 13:32:19</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

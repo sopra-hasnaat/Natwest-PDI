@@ -691,7 +691,7 @@
                               },
                               "filterQuery" : {
                                 "type" : "JSON_LITERAL",
-                                "value" : "active=true^priority=2^assignment_group=27c372af1bd99d5069ab0fa7624bcb9b"
+                                "value" : "active=true^priority=2"
                               },
                               "reportSourceSysId" : {
                                 "type" : "JSON_LITERAL",
@@ -4788,13 +4788,13 @@
         <sys_created_by>warwick-cooney-grants</sys_created_by>
         <sys_created_on>2022-08-20 18:49:26</sys_created_on>
         <sys_id>fbbd6dbf1a95dd50ec8ffe2402df5e68</sys_id>
-        <sys_mod_count>260</sys_mod_count>
+        <sys_mod_count>261</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
         <sys_update_name>sys_ux_macroponent_fbbd6dbf1a95dd50ec8ffe2402df5e68</sys_update_name>
         <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
-        <sys_updated_on>2023-02-08 16:08:44</sys_updated_on>
+        <sys_updated_on>2023-02-16 13:19:53</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

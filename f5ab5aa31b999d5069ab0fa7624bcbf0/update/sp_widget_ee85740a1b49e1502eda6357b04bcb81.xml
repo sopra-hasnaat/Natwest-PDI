@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function ($scope, spUtil, $location, spModal, spAriaUtil, $window) {
+	var c = this;
+	c.m = $scope.data.msgs;
+	
+	$scope.$on("$sp.service_catalog.wishlist.update", function(evt, item_id) {
+		$scope.wishlist_item_id = item_id;
+		$scope.server.update().then(function() {
+			$scope.$emit("$sp.service_catalog.wishlist.count", getItemCount());
+		});
+	});
+	
+	$scope.$on("$sp.service_catalog.item.close", function() {
+		$scope.wishlist_item_id = null;
+	});
+
+	c.removeItem = function(item) {
+		var urlId = $window.location.search.split('sys_id=')[1];
+		if(urlId)
+			urlId = urlId.split('&')[0];
+		var isEdited = $scope.wishlist_item_id === item.sys_id || urlId === item.sys_id;
+		var dialogMsg = isEdited ? c.data.msgs.removeEditingItemMsg : c.data.msgs.removeItemConfirmationMsg;
+		spModal.confirm(dialogMsg).then(function(confirmed) {
+			if (confirmed) {
+				$scope.server.get({
+					cartName: "saved_items",
+					action: "remove_item",
+					removeItemID: item.sys_id
+				}).then(function(response) {
+					c.data.cartItems = response.data.cartItems;
+					$rootScope.$broadcast("$sp.service_catalog.wishlist.update", item.item_id);
+					if (response.data.cartItems.length == 0) {
+						spUtil.addTrivialMessage(c.data.msgs.wishlistEmptiedMsg);
+						$scope.setFocusEmptyWishlistHeading(item.name + " " + c.data.msgs.itemRemovedMsg);
+					} else
+						$('#main-wishlist-header').focus().after(function() {
+							$scope.sendLiveMessage(item.name + " " + c.data.msgs.itemRemovedMsg, 500);
+						});
+					if (isEdited)
+						$window.location.href = '?id=sc_wishlist';
+				});
+			}
+		});
+	}
+
+	c.clearCart = function() {
+		spModal.confirm(c.data.msgs.clearWishlistConfirmationMsg).then(function(confirmed) {
+			if (confirmed) {
+				c.server.get({
+					action: "clear_cart"
+				}).then(function(response) {
+					c.data.cartItems = response.data.cartItems
+					$rootScope.$broadcast("$sp.service_catalog.wishlist.update");
+					spUtil.addTrivialMessage(c.data.msgs.wishlistEmptiedMsg);
+					$scope.setFocusEmptyWishlistHeading(c.data.msgs.wishlistEmptiedMsg);
+				});
+			}
+		});
+	}
+
+	c.KEYS = {
+		DOWN:40,
+		UP:38
+	};
+	
+	c.onKeyDown = function(e) {
+		var target = e.currentTarget;
+		var selectables = $('#small-wishlist').children().find("a:visible, button:visible");
+		var index = selectables.index(target);
+		if(e.keyCode == c.KEYS.UP) {
+			e.preventDefault();
+			e.stopPropagation();
+			selectables.eq(index - 1).focus();
+		} else if(e.keyCode == c.KEYS.DOWN) {
+			e.preventDefault();
+			e.stopPropagation();
+			if (index == selectables.size() - 1) index = -1;
+			selectables.eq(index + 1).focus();
+		}
+	}
+	
+	$scope.orderByDate = function (item) {
+		 var date = new Date(item.sys_updated_on).getTime();
+		 return date;
+	}
+
+	$scope.$emit("$sp.service_catalog.wishlist.count", getItemCount());
+
+	function getItemCount() {
+		return c.data.cartItems.length || 0;
+	}
+
+	if(c.options.auto_update_wishlist === true || c.options.auto_update_wishlist === "true") {
+		spUtil.recordWatch($scope, 'sc_cart_item', 'cart.name=saved_items^cart.user=' + $scope.data.user_id, function(resp) {			
+					$rootScope.$broadcast("$sp.service_catalog.wishlist.update", $scope.wishlist_item_id);
+		});
+	}
+
+	$scope.sendLiveMessage = function(message, timeout) {
+		if (!message)
+			return;
+
+		if (!timeout)
+			timeout = 0;
+
+		setTimeout(function() {
+			spAriaUtil.sendLiveMessage(message);
+		}, timeout);
+	}
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>td {
+  vertical-align: middle !important;
+}
+
+.a-disabled {
+	cursor: default;
+	color: $btn-link-disabled-color;
+}
+
+.media-body {
+  .btn-link {
+    padding-left: 0;
+    padding-right: 0;
+    color: $primary;
+
+    &amp;:hover {
+      color: darken($primary, 10%);
+    }
+
+    &amp;:focus {
+      color: darken($primary, 10%);
+    }
+  }
+}
+
+.btn-remove {
+  font-size: 18px !important;
+}
+
+.action-btn {
+  display: block;
+  width: 100%;
+  margin-top: 5px;
+
+  &amp;.btn-link {
+    color: $primary;
+  }
+}
+
+.list-group {
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.list-group-item.ng-enter {
+  transition: all 1s;
+  -webkit-transition: all 1s;
+
+  background-color: #c0dcfa;
+}
+
+.list-group-item.ng-enter-active {
+  background-color: #fff;
+}
+
+.empty-cart {
+  font-style: italic;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 7px;
+}
+
+.view-carts-link {
+  text-align: center;
+  display: block;
+}
+
+.order-details-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 5px 10px 10px 10px;
+
+  .order-details {
+    padding: 5px;
+
+    textarea {
+      resize: none;
+      flex-basis: 100%;
+      flex-shrink: 1;
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  .requested-for-details {
+    flex: 1 0 auto;
+    max-width: 100%;
+  }
+
+  .special-instructions-details {
+    textarea {
+      height: calc(100% - 25px);
+    }
+  }
+}
+
+.item-image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.empty-state-content {
+  margin-top: 30px;
+
+  &amp;.small-cart {
+    margin-top: 0px;
+    padding: 10px 20px;
+  }
+
+  .fa-shopping-cart, .icon-sp-wishlist {
+    color: $gray-light;
+    font-size: 80px;
+    display: block;
+    text-align: center;
+
+    &amp;.small-cart {
+      font-size: 40px;
+    }
+  }
+
+  .h3 {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .h4 {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  p {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    max-width: 100%;
+    margin-bottom: 35px;
+  }
+}
+
+.large-checkout {
+  display: inline-block;
+  float: none !important;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.item-row:hover .btn-clear {
+	background-color: #f5f5f5;
+}
+
+.sc-remove-btn {
+   &amp;:hover {
+     background-color: $danger;
+     color: #fff;
+     border-color: darken($danger, 10%);
+   }
+}
+
+.sc-wishlist-text {
+  color: $text-color;
+}
+
+.sc-cart-item-img {
+  width : 4.8rem; 
+  max-width : 4.8rem; 
+  padding-right : 1rem;
+}
+
+.sc-wishlist-cart-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+@media only screen and (max-width : 992px) {
+  .sc-btn, .sc-btn-group {
+    width: 100%;
+  }
+  .sc-btn:not(:last-child) {
+    margin-bottom: 10px;
+  }
+	.item-image {
+		max-width: 100%;
+	}
+}
+
+.th-row-data {
+	font-weight: normal !important;
+ }
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>natwest_drafts</id>
+        <internal>false</internal>
+        <link><![CDATA[function (scope, element) {
+	scope.setFocusEmptyWishlistHeading = function (liveMsg) {
+		setTimeout(function () {
+			$("#empty-wishlist-heading").focus().after(function() {
+				scope.sendLiveMessage(liveMsg, 500);
+			});
+		}, 0);
+	}
+}]]></link>
+        <name>NatWest Drafts</name>
+        <option_schema>[{"hint":"This will sync wish list across different sessions","name":"auto_update_wishlist","default_value":"false","label":"Auto update wish list","type":"boolean"}]</option_schema>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+		var localInput = input; //to safeguard pullution of "input" via BR or other scripts
+	
+    var m = data.msgs = {};
+    m.itemRemovedMsg = gs.getMessage("has been removed from your Drafts");
+    m.removeItemConfirmationMsg = gs.getMessage("Are you sure you want to remove this item from Drafts?");
+    m.removeEditingItemMsg = gs.getMessage("Are you sure you want to remove the item you are viewing from your Drafts?");
+    m.clearWishlistConfirmationMsg = gs.getMessage("Are you sure you want to empty your Drafts?");
+	m.wishlistEmptiedMsg = gs.getMessage("Your draft has been cleared");
+
+    var userID = gs.getUser().getID();
+    var cart = new global.SPCart("saved_items", userID);
+    data.cartID = cart.getCartID().toString();
+    data.user_id = userID;
+
+    if (localInput && localInput.action === "clear_cart")
+        cart.clearCart();
+
+    if (localInput && localInput.action === "remove_item") {
+        var itemGR = new GlideRecord('sc_cart_item');
+        if (itemGR.get(localInput.removeItemID))
+            itemGR.deleteRecord();
+    }
+
+    data.cartItems = cart.getItems();
+    data.cartItems.map(function(item) {
+        if (item.can_order)
+            item.item_url = "?id=sc_cat_item&sys_id=" + item.sys_id + "&edit=wishlist";
+    });
+    $sp.logStat('Wishlist View', 'sc_cart', '', 'saved_items', $sp.getPortalRecord().getUniqueValue());
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>hasnaat.khan.ems</sys_created_by>
+        <sys_created_on>2023-02-17 14:09:55</sys_created_on>
+        <sys_id>ee85740a1b49e1502eda6357b04bcb81</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NatWest Drafts</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>sp_widget_ee85740a1b49e1502eda6357b04bcb81</sys_update_name>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-02-17 14:36:02</sys_updated_on>
+        <template><![CDATA[<div ng-if="options.wishlistTemplate">
+	<div ng-include="options.wishlistTemplate"></div>
+</div>
+
+<div ng-if="!options.wishlistTemplate">
+  <div class="alert alert-danger" role="alert">
+    <strong>${Error}: </strong>
+    ${Please provide a Draft template to render.}
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

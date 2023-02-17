@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="HeisenbergRetinaIcons">f7fdd25e87c50300e0ef0cf888cb0b7b</sp_dependency>
+        <sp_widget display_value="NatWest Drafts">ee85740a1b49e1502eda6357b04bcb81</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>hasnaat.khan.ems</sys_created_by>
+        <sys_created_on>2023-02-17 14:09:55</sys_created_on>
+        <sys_id>6285f80a1b49e1502eda6357b04bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HeisenbergRetinaIcons.NatWest Drafts</sys_name>
+        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_6285f80a1b49e1502eda6357b04bcbe3</sys_update_name>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-02-17 14:09:55</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>

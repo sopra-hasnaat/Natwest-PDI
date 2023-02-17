@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Data Cases Register" language="en" table="x_ster2_data_cas_0_data_cases_register">
+    <sys_documentation element="" label="Data Issue Register" language="en" table="x_ster2_data_cas_0_data_cases_register">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Data Cases Register</label>
+            <label>Data Issue Register</label>
             <language>en</language>
             <name>x_ster2_data_cas_0_data_cases_register</name>
-            <plural>Data Cases Registers</plural>
+            <plural>Data Issue Registers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>warwick-cooney-grants</sys_created_by>
             <sys_created_on>2022-08-20 03:53:17</sys_created_on>
-            <sys_id>c1a022eb1b999d5069ab0fa7624bcb8e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Data Cases Register</sys_name>
+            <sys_id>8fa86c281bf825502eda6357b04bcb85</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Data Issue Register</sys_name>
             <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
             <sys_update_name>sys_documentation_x_ster2_data_cas_0_data_cases_register__en</sys_update_name>
-            <sys_updated_by>warwick-cooney-grants</sys_updated_by>
-            <sys_updated_on>2022-08-20 03:53:17</sys_updated_on>
+            <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+            <sys_updated_on>2023-02-16 13:37:01</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
