@@ -14,7 +14,7 @@
         <license_model>none</license_model>
         <logo>36ab96a31b999d5069ab0fa7624bcb40</logo>
         <menu/>
-        <name>Data Cases Register</name>
+        <name>Data Issue Register</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -29,9 +29,9 @@
         <sys_created_by>warwick-cooney-grants</sys_created_by>
         <sys_created_on>2022-08-20 03:31:30</sys_created_on>
         <sys_id>f5ab5aa31b999d5069ab0fa7624bcbf0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>warwick-cooney-grants</sys_updated_by>
-        <sys_updated_on>2022-08-20 03:31:34</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
+        <sys_updated_on>2023-03-03 13:39:38</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

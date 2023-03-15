@@ -16,7 +16,7 @@
         <description><![CDATA[<p>Report a Data Issue regarding a Service or Application.</p>
 <p>Please use this request only to specifically report an actual <strong>Data Issue</strong>, which will be recorded in the <strong>Data Register</strong>.                          </p>
 <p>For other non-Data type issues, please use the standard &#34;Create a New Incident&#34; item.</p>
-<p>If you require further assistance, please refer to the <a title="Knowledge Base." href="/sp/?id&#61;kb_view" rel="nofollow"><span style="color: #008080;">Knowledge Base.</span></a></p>]]></description>
+<p>If you require further assistance, please refer to the <a title="Knowledge Base." href="/sp/?id&#61;kb_view2" rel="nofollow"><span style="color: #008080;">Knowledge Base.</span></a></p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -92,14 +92,14 @@ current.setValue('assigned_to', '2c462b2c1b4111106eb0a6c0604bcb3b');]]></script>
         <sys_created_by>warwick-cooney-grants</sys_created_by>
         <sys_created_on>2022-08-20 06:10:21</sys_created_on>
         <sys_id>3800cbeb1b1d9d5069ab0fa7624bcbc0</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Raise A Data Issue</sys_name>
-        <sys_package display_value="Data Cases Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
+        <sys_package display_value="Data Issue Register" source="x_ster2_data_cas_0">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Data Cases Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
+        <sys_scope display_value="Data Issue Register">f5ab5aa31b999d5069ab0fa7624bcbf0</sys_scope>
         <sys_update_name>sc_cat_item_producer_3800cbeb1b1d9d5069ab0fa7624bcbc0</sys_update_name>
         <sys_updated_by>hasnaat.khan.ems</sys_updated_by>
-        <sys_updated_on>2023-02-17 15:49:57</sys_updated_on>
+        <sys_updated_on>2023-02-20 10:20:15</sys_updated_on>
         <table_name>x_ster2_data_cas_0_data_cases_register</table_name>
         <taxonomy_topic/>
         <template/>
